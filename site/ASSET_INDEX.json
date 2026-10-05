@@ -1,5 +1,5 @@
 {
-  "version": "native-community-stinger-72",
+  "version": "native-community-motion-74",
   "files": {
     "ender3_stock_220/assembly_manifest.json": {
       "path": "ender3/assembly_manifest.json",
@@ -200,16 +200,34 @@
       "decoded_sha256": "99018bcd4ca8fd9a0fdd2b13f764dea7e2de9471979db8766b947e876c977e87"
     },
     "lh_stinger_200/assembly_manifest.json": {
+      "path": "stinger-v2/assembly_manifest.json",
+      "bytes": 333359,
+      "sha256": "db700b832ec91d5c7a8cc1431c49292fa6b70282970783a53b991885a7e75a8c"
+    },
+    "lh_stinger_200/machine_profile.json": {
+      "path": "stinger-v2/machine_profile.json",
+      "bytes": 948,
+      "sha256": "2d14191afaad6655b277e2f98292742bbfc1531a5adc10b83713a4f157a6eb37"
+    },
+    "lh_stinger_200/model.glb": {
+      "path": "stinger-v2/model.glb.gz",
+      "bytes": 42188987,
+      "sha256": "5b80579b6c462312ff209fc905c5e231e733b820aa00427a7b3b36292b9c34f6",
+      "encoding": "gzip",
+      "decoded_bytes": 91011464,
+      "decoded_sha256": "01c7ce6f0ce26c2bb2eff7bc8602447042fb5de68adda133f3b5acc108557f91"
+    },
+    "legacy_stinger_v1/assembly_manifest.json": {
       "path": "stinger/assembly_manifest.json",
       "bytes": 333262,
       "sha256": "91491f6fc0eb24f5079103f4c169444a0a0e00f3a93576e88ebe54523a88622e"
     },
-    "lh_stinger_200/machine_profile.json": {
+    "legacy_stinger_v1/machine_profile.json": {
       "path": "stinger/machine_profile.json",
       "bytes": 725,
       "sha256": "57e497f6e0cf5c79d742501082bcbbc000d5dc48476e94e171f2f13d5a313623"
     },
-    "lh_stinger_200/model.glb": {
+    "legacy_stinger_v1/model.glb": {
       "path": "stinger/model.glb.gz",
       "bytes": 42183419,
       "sha256": "d6c8595ecd48da1251d9149aa02736577ed5009b31c34eb0944d8f8820b7d681",
