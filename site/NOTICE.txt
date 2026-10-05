@@ -216,3 +216,14 @@ Display changes: native triangulation without decimation, omission of zero-area 
 Limitations: static complete assembly; no motion, toolhead/mod swapping or generated STEP download. Source CAD has no XY belt route. Native tensioner 355 contains invalid topology and is retained as a display mesh; full native-solid fit is not certified. Native source threaded and component contacts are retained.
 
 Editable source is the pinned upstream assembled STEP. Conversion recipe and placement overrides: https://github.com/Psych0h3ad/3d-print-rig-community-models/tree/main/scripts
+
+Custom VORON dimensions / revision 80
+Custom VORON dimension references
+
+V2.4: 500 × 500 × 480 and 350 × 350 × 165 mm.
+Trident: 500 × 500 × 250 and 350 × 350 × 125 mm.
+
+These are custom derived assemblies, not official standard kits. The low models retain 350 × 350 XY and halve the existing viewer standard Z (V2.4 330; Trident 250). Motors, carriage blocks, nuts, bolts, fans and toolhead bodies retain native dimensions. Individual parts are editable BREP solids in millimetres, in the assembled CAD coordinate system. Assembly manifests include per-part material/motion roles and file/hash mapping. NATIVE_BUILD_QA records dimensional edits; native mounting and PTFE reports distinguish selected solid checks from motion/visibility tests. Dynamic belt and tube meshes are visual routes, not manufacturing or tension models.
+
+Original source repositories, revisions, attribution and component notices are in SOURCES.json and the included licenses. Modified geometry retains its upstream terms. Stock Stealthburner / CW2 / Revo is assembled; custom-size mods and complete full-travel interference are not certified. This archive is editable model source, not a standard STEP download.
+

@@ -1,0 +1,552 @@
+{
+  "sources": [
+    {
+      "id": "voron_trident",
+      "label": "VORON Trident R2",
+      "repository": "VoronDesign/Voron-Trident",
+      "author": "VoronDesign",
+      "commit": "a8628f48546948ce1fc15511b7765b7f31f80722",
+      "url": "https://github.com/VoronDesign/Voron-Trident/tree/a8628f48546948ce1fc15511b7765b7f31f80722",
+      "scope": "Independent standard Trident 250 / 300 / 350 chassis, fixed frame, three Z guides, moving bed and 6 mm R2 gantries.",
+      "license": "GPL-3.0",
+      "changes": "Rigid native hardware retains its dimensions. Size-specific rails preserve native periodic hole pitch and fixing axes. Extrusions, bed and panels use central or perimeter inserts. Static mounting references and native Z limits remain disclosed.",
+      "license_url": "../licenses/voron_trident/LICENSE",
+      "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "version": "CAD/contents/trident_assembly.step / SHA256 416eda4e9212b894ed6f78ad3a6af55757115ebfcc4c18db933743d97dd48ccf"
+    },
+    {
+      "id": "voron_v24",
+      "label": "VORON V2.4 R2",
+      "repository": "VoronDesign/Voron-2",
+      "author": "VoronDesign",
+      "commit": "a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+      "url": "https://github.com/VoronDesign/Voron-2/tree/a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+      "scope": "Printed R2 assemblies in 250 / 300 / 350 mm, derived from the official 250 mm assembly.",
+      "license": "GPL-3.0",
+      "changes": "350 mm寸法への再配置。選択部品の重複を除き、スカート・ラッチ・固定具・ベッドの取付面を調整。 Zレール固定用ナットをM3へ交換してレール裏の溝へ配置。XYを含む68組のレール固定ナットをボルト軸に合わせて調整。 Complete 250/300/350 upper and lower latch groups are registered to the door seam and native magnet recesses.",
+      "license_url": "../licenses/voron_v24/LICENSE",
+      "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "id": "stealthburner",
+      "label": "Stealthburner / Clockwork 2 / Revo CAD",
+      "repository": "VoronDesign/Voron-Stealthburner",
+      "author": "VoronDesign",
+      "commit": "8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+      "url": "https://github.com/VoronDesign/Voron-Stealthburner/tree/8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+      "scope": "SBのRevo Voron・Rapido HF・Dragon SF/HF・V6用CW2マウント、前面本体、CW2修復用形状。",
+      "license": "GPL-3.0",
+      "changes": "配置・表示用三角形化・配色の調整。機種ごとの変更履歴を検証記録に保存。",
+      "license_url": "../licenses/stealthburner/LICENSE",
+      "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    }
+  ],
+  "model_attribution": {
+    "voron_v24_500_custom": {
+      "machine_id": "voron_v24_500_custom",
+      "id": "voron_v24_500_custom",
+      "size_mm": 500,
+      "belt_width_mm": 6,
+      "xy_belt_width_mm": 6,
+      "geometry_revision": "custom-voron-80",
+      "source_baseline": "voron_v24_350_printed",
+      "source_repositories": [
+        {
+          "id": "voron_v24",
+          "label": "VORON V2.4 R2",
+          "repository": "VoronDesign/Voron-2",
+          "author": "VoronDesign",
+          "commit": "a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+          "url": "https://github.com/VoronDesign/Voron-2/tree/a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+          "scope": "250の公式アセンブリから構築したV2.4 350基準モデル。",
+          "license": "GPL-3.0",
+          "changes": "350 mm寸法への再配置。選択部品の重複を除き、スカート・ラッチ・固定具・ベッドの取付面を調整。 Zレール固定用ナットをM3へ交換してレール裏の溝へ配置。XYを含む68組のレール固定ナットをボルト軸に合わせて調整。 Complete 250/300/350 upper and lower latch groups are registered to the door seam and native magnet recesses.",
+          "license_url": "../licenses/voron_v24/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        }
+      ],
+      "notices": [
+        "Custom dimensions derived from native VORON 350 mm reference parts. Rigid hardware retains native dimensions.",
+        "Printed skirt sections are extended custom parts. This is not an official VORON size or a tested build kit.",
+        "Moving belts are smooth route previews; teeth, tension and electrical wiring mechanics are not simulated."
+      ]
+    },
+    "voron_v24_350_half_z": {
+      "machine_id": "voron_v24_350_half_z",
+      "id": "voron_v24_350_half_z",
+      "size_mm": 350,
+      "belt_width_mm": 6,
+      "xy_belt_width_mm": 6,
+      "geometry_revision": "custom-voron-80",
+      "source_baseline": "voron_v24_350_printed",
+      "source_repositories": [
+        {
+          "id": "voron_v24",
+          "label": "VORON V2.4 R2",
+          "repository": "VoronDesign/Voron-2",
+          "author": "VoronDesign",
+          "commit": "a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+          "url": "https://github.com/VoronDesign/Voron-2/tree/a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
+          "scope": "250の公式アセンブリから構築したV2.4 350基準モデル。",
+          "license": "GPL-3.0",
+          "changes": "350 mm寸法への再配置。選択部品の重複を除き、スカート・ラッチ・固定具・ベッドの取付面を調整。 Zレール固定用ナットをM3へ交換してレール裏の溝へ配置。XYを含む68組のレール固定ナットをボルト軸に合わせて調整。 Complete 250/300/350 upper and lower latch groups are registered to the door seam and native magnet recesses.",
+          "license_url": "../licenses/voron_v24/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        }
+      ],
+      "notices": [
+        "Custom dimensions derived from native VORON 350 mm reference parts. Rigid hardware retains native dimensions.",
+        "Printed skirt sections are extended custom parts. This is not an official VORON size or a tested build kit.",
+        "Moving belts are smooth route previews; teeth, tension and electrical wiring mechanics are not simulated."
+      ]
+    },
+    "voron_trident_500_custom": {
+      "machine_id": "voron_trident_500_custom",
+      "id": "trident_r2_gantry_500",
+      "size_mm": 500,
+      "belt_width_mm": 6,
+      "xy_belt_width_mm": 6,
+      "geometry_revision": "custom-voron-80",
+      "source_baseline": "voron_trident_350",
+      "source_repositories": [
+        {
+          "id": "siboor_trident",
+          "label": "SIBOOR Trident JUNE / ClickyClacky・FumePack",
+          "repository": "Lzhikai/SIBOOR-Voron-Trident-June",
+          "author": "Lzhikai",
+          "commit": "2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3",
+          "url": "https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/tree/2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3",
+          "scope": "取得した300mm STEPから350へ再構成した本体。ドア・フィルターを含む。",
+          "license": "再配布条件の明記を確認できず / 公開前に確認が必要",
+          "changes": "配置・表示用三角形化・配色の調整。機種ごとの変更履歴を検証記録に保存。",
+          "version": "300mm STEP SHA256: 0c8eeb356bd3809dee9c0909d182262b714048eaa98bad1da90d33c0d5b1f88e",
+          "notice": "上記commitはキット資料の版。取得したSTEPはこのSHA256で識別し、同commitから取得したCADとは扱いません。"
+        },
+        {
+          "id": "voron_trident",
+          "label": "VORON Trident R2",
+          "repository": "VoronDesign/Voron-Trident",
+          "author": "VoronDesign",
+          "commit": "a8628f48546948ce1fc15511b7765b7f31f80722",
+          "url": "https://github.com/VoronDesign/Voron-Trident/tree/a8628f48546948ce1fc15511b7765b7f31f80722",
+          "scope": "Independent standard Trident 250 / 300 / 350 chassis, fixed frame, three Z guides, moving bed and 6 mm R2 gantries.",
+          "license": "GPL-3.0",
+          "changes": "Rigid native hardware retains its dimensions. Size-specific rails preserve native periodic hole pitch and fixing axes. Extrusions, bed and panels use central or perimeter inserts. Static mounting references and native Z limits remain disclosed.",
+          "license_url": "../licenses/voron_trident/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+          "version": "CAD/contents/trident_assembly.step / SHA256 416eda4e9212b894ed6f78ad3a6af55757115ebfcc4c18db933743d97dd48ccf"
+        },
+        {
+          "id": "stealthburner",
+          "label": "Stealthburner / Clockwork 2 / Revo CAD",
+          "repository": "VoronDesign/Voron-Stealthburner",
+          "author": "VoronDesign",
+          "commit": "8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+          "url": "https://github.com/VoronDesign/Voron-Stealthburner/tree/8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+          "scope": "SBのRevo Voron・Rapido HF・Dragon SF/HF・V6用CW2マウント、前面本体、CW2修復用形状。",
+          "license": "GPL-3.0",
+          "changes": "配置・表示用三角形化・配色の調整。機種ごとの変更履歴を検証記録に保存。",
+          "license_url": "../licenses/stealthburner/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        }
+      ],
+      "notices": [
+        "Custom dimensions derived from native VORON 350 mm reference parts. Rigid hardware retains native dimensions.",
+        "Printed skirt sections are extended custom parts. This is not an official VORON size or a tested build kit.",
+        "Moving belts are smooth route previews; teeth, tension and electrical wiring mechanics are not simulated.",
+        "Custom Trident top panel has a 4.4 mm stationary PTFE feedthrough. The 4 × 3 mm tube connects the measured CW2 inlet and native spool-side holder; motion is a route preview.",
+        "Native lower Z-chain bracket is widened by a plain 50 mm section to retain the original lower-chain screw and insert interfaces. Rigid screw/insert dimensions are preserved.",
+        "Native three-WAGO printed mount has custom plain-section extensions to follow the rear and left extrusion seats. Original connector, screw and mounting-end geometry is retained.",
+        "The active two-hole lower Z-chain bracket uses its two measured insert sockets. Three inactive insert instances from the alternate three-hole mounting variant are omitted."
+      ],
+      "custom_ptfe": {
+        "part_key": "voron_trident_350_base_1409",
+        "controls_mm": [
+          [
+            0,
+            -35.880961,
+            432.660258
+          ],
+          [
+            0,
+            -35.880961,
+            462.660258
+          ],
+          [
+            0,
+            260.0,
+            440
+          ],
+          [
+            0,
+            260.0,
+            470
+          ],
+          [
+            0,
+            260.0,
+            560
+          ],
+          [
+            0,
+            260.0,
+            590
+          ],
+          [
+            344.9999999998556,
+            192.33468243760973,
+            508.86253247203064
+          ],
+          [
+            344.9999999998556,
+            135.62882323077105,
+            528.4698150888082
+          ]
+        ],
+        "radius_mm": 2,
+        "inner_radius_mm": 1.5,
+        "moving_axes": [
+          "X",
+          "Y"
+        ]
+      }
+    },
+    "voron_trident_350_half_z": {
+      "machine_id": "voron_trident_350_half_z",
+      "id": "trident_r2_gantry_350",
+      "size_mm": 350,
+      "belt_width_mm": 6,
+      "xy_belt_width_mm": 6,
+      "geometry_revision": "custom-voron-80",
+      "source_baseline": "voron_trident_350",
+      "source_repositories": [
+        {
+          "id": "siboor_trident",
+          "label": "SIBOOR Trident JUNE / ClickyClacky・FumePack",
+          "repository": "Lzhikai/SIBOOR-Voron-Trident-June",
+          "author": "Lzhikai",
+          "commit": "2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3",
+          "url": "https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/tree/2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3",
+          "scope": "取得した300mm STEPから350へ再構成した本体。ドア・フィルターを含む。",
+          "license": "再配布条件の明記を確認できず / 公開前に確認が必要",
+          "changes": "配置・表示用三角形化・配色の調整。機種ごとの変更履歴を検証記録に保存。",
+          "version": "300mm STEP SHA256: 0c8eeb356bd3809dee9c0909d182262b714048eaa98bad1da90d33c0d5b1f88e",
+          "notice": "上記commitはキット資料の版。取得したSTEPはこのSHA256で識別し、同commitから取得したCADとは扱いません。"
+        },
+        {
+          "id": "voron_trident",
+          "label": "VORON Trident R2",
+          "repository": "VoronDesign/Voron-Trident",
+          "author": "VoronDesign",
+          "commit": "a8628f48546948ce1fc15511b7765b7f31f80722",
+          "url": "https://github.com/VoronDesign/Voron-Trident/tree/a8628f48546948ce1fc15511b7765b7f31f80722",
+          "scope": "Independent standard Trident 250 / 300 / 350 chassis, fixed frame, three Z guides, moving bed and 6 mm R2 gantries.",
+          "license": "GPL-3.0",
+          "changes": "Rigid native hardware retains its dimensions. Size-specific rails preserve native periodic hole pitch and fixing axes. Extrusions, bed and panels use central or perimeter inserts. Static mounting references and native Z limits remain disclosed.",
+          "license_url": "../licenses/voron_trident/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+          "version": "CAD/contents/trident_assembly.step / SHA256 416eda4e9212b894ed6f78ad3a6af55757115ebfcc4c18db933743d97dd48ccf"
+        },
+        {
+          "id": "stealthburner",
+          "label": "Stealthburner / Clockwork 2 / Revo CAD",
+          "repository": "VoronDesign/Voron-Stealthburner",
+          "author": "VoronDesign",
+          "commit": "8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+          "url": "https://github.com/VoronDesign/Voron-Stealthburner/tree/8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+          "scope": "SBのRevo Voron・Rapido HF・Dragon SF/HF・V6用CW2マウント、前面本体、CW2修復用形状。",
+          "license": "GPL-3.0",
+          "changes": "配置・表示用三角形化・配色の調整。機種ごとの変更履歴を検証記録に保存。",
+          "license_url": "../licenses/stealthburner/LICENSE",
+          "license_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        }
+      ],
+      "notices": [
+        "Custom dimensions derived from native VORON 350 mm reference parts. Rigid hardware retains native dimensions.",
+        "Printed skirt sections are extended custom parts. This is not an official VORON size or a tested build kit.",
+        "Moving belts are smooth route previews; teeth, tension and electrical wiring mechanics are not simulated.",
+        "Custom Trident top panel has a 4.4 mm stationary PTFE feedthrough. The 4 × 3 mm tube connects the measured CW2 inlet and native spool-side holder; motion is a route preview.",
+        "Native lower Z-chain bracket is widened by a plain 50 mm section to retain the original lower-chain screw and insert interfaces. Rigid screw/insert dimensions are preserved.",
+        "Three upper rear Z-rail T-nuts and their rail screws are omitted above the shortened guide. Remaining rail hardware retains its original spacing and native dimensions.",
+        "Native three-WAGO printed mount has custom plain-section extensions to follow the rear and left extrusion seats. Original connector, screw and mounting-end geometry is retained.",
+        "The active two-hole lower Z-chain bracket uses its two measured insert sockets. Three inactive insert instances from the alternate three-hole mounting variant are omitted."
+      ],
+      "bed_chain_pins": [
+        {
+          "key": "voron_trident_350_base_766",
+          "from_xz_mm": [
+            -91.45018,
+            53
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            70
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_775",
+          "from_xz_mm": [
+            -91.45018,
+            70
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            87
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_770",
+          "from_xz_mm": [
+            -91.45018,
+            87
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            104
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_777",
+          "from_xz_mm": [
+            -91.45018,
+            104
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            121
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_758",
+          "from_xz_mm": [
+            -91.45018,
+            121
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            138
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_773",
+          "from_xz_mm": [
+            -91.45018,
+            138
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            155
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_763",
+          "from_xz_mm": [
+            -91.45018,
+            155
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            172
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_765",
+          "from_xz_mm": [
+            -91.45018,
+            172
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            189
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_761",
+          "from_xz_mm": [
+            -91.45018,
+            189
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            206
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_757",
+          "from_xz_mm": [
+            -91.45018,
+            206
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            223
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_771",
+          "from_xz_mm": [
+            -91.45018,
+            223
+          ],
+          "to_xz_mm": [
+            -91.45018,
+            240
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_764",
+          "from_xz_mm": [
+            -91.45018,
+            240
+          ],
+          "to_xz_mm": [
+            -88.56211803951508,
+            256.7528832775854
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_760",
+          "from_xz_mm": [
+            -88.56211803951508,
+            256.7528832775854
+          ],
+          "to_xz_mm": [
+            -75.77422161035574,
+            267.9542093114572
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_756",
+          "from_xz_mm": [
+            -75.77422161035574,
+            267.9542093114572
+          ],
+          "to_xz_mm": [
+            -58.78690618492502,
+            268.6108025165116
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_759",
+          "from_xz_mm": [
+            -58.78690618492502,
+            268.6108025165116
+          ],
+          "to_xz_mm": [
+            -45.17254742501753,
+            258.4299756563529
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_774",
+          "from_xz_mm": [
+            -45.17254742501753,
+            258.4299756563529
+          ],
+          "to_xz_mm": [
+            -40.99997000025286,
+            241.94999999998907
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_772",
+          "from_xz_mm": [
+            -40.99997000025286,
+            241.94999999998907
+          ],
+          "to_xz_mm": [
+            -40.99997000025286,
+            224.94999999998907
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_767",
+          "from_xz_mm": [
+            -40.99997000025286,
+            224.94999999998907
+          ],
+          "to_xz_mm": [
+            -40.99997000025286,
+            207.94999999998907
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_768",
+          "from_xz_mm": [
+            -40.99997000025286,
+            207.94999999998907
+          ],
+          "to_xz_mm": [
+            -40.99997000025286,
+            190.94999999998907
+          ]
+        },
+        {
+          "key": "voron_trident_350_base_769",
+          "from_xz_mm": [
+            -40.99997000025286,
+            190.94999999998907
+          ],
+          "to_xz_mm": [
+            -40.99997000025286,
+            173.94999999998907
+          ]
+        }
+      ],
+      "custom_ptfe": {
+        "part_key": "voron_trident_350_base_1409",
+        "controls_mm": [
+          [
+            0,
+            -35.880961,
+            307.660258
+          ],
+          [
+            0,
+            -35.880961,
+            337.660258
+          ],
+          [
+            0,
+            185.0,
+            315
+          ],
+          [
+            0,
+            185.0,
+            345
+          ],
+          [
+            0,
+            185.0,
+            435
+          ],
+          [
+            0,
+            185.0,
+            465
+          ],
+          [
+            269.9999999998556,
+            192.33468243760973,
+            383.86253247203064
+          ],
+          [
+            269.9999999998556,
+            135.62882323077105,
+            403.4698150888082
+          ]
+        ],
+        "radius_mm": 2,
+        "inner_radius_mm": 1.5,
+        "moving_axes": [
+          "X",
+          "Y"
+        ]
+      }
+    }
+  },
+  "changes": "Custom dimensions derived from repaired native 350 mm VORON assemblies. Rigid hardware is placed without scaling; sections of extrusions, rails, skirts, bed and enclosure are edited. Shortened Trident Z chain uses native rigid links. Custom Trident PTFE uses a stationary 4.4 mm roof feedthrough. No mechanical/tension certification or supported mod interfaces for these custom dimensions.",
+  "supports": "No new built-in support removal was performed. Retained source notices apply.",
+  "source_format": "Editable individual native BREP solids with exact part manifests, hash pins, dimensions and operation evidence. Geometry keeps upstream and component terms."
+}
