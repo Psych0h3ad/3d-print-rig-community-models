@@ -2,6 +2,7 @@ from pathlib import Path
 import sys,json,gzip,hashlib,re
 import cadquery as cq,numpy as np,trimesh
 from trimesh.visual.material import PBRMaterial
+from native_mesh import clean_mesh,small_hardware
 CACHE=Path(sys.argv[1]);OUTPUT=Path(sys.argv[2])
 VM_PRINTED={'40mm_fan_cage','3030_endcap','3030_spool_holder','back_cartesian','bmo_face','bmo_support','bottom_mgn12_short_duct','case_back','case_front','case_feet','case_front_panel','case_back_panel','cartesian_cable_fin','electronics_case_wire_guide','lj8_probe_mount_8mm','pillow_block','ratrig_eva_shroud','top_endstop_angled','top_mgn12_lgx_lite','trihorn_duct','universal_face','tension_slider_6mm_belt_m3s','x_gantry_end_cap','x_wire_holder','x_idler','x_motor_cage','y_belt_cover','y_belt_mount','y_belt_tensioner','z_cap'}
 VM_PRINTED.update({'side_legs','z_motor_cage','y_motor_cage','y_idler','3030_end_cap','y_endstop_mount'})
@@ -53,6 +54,8 @@ def role(key,r):
  n=r['name'].lower().strip('_ ');p='/'.join(r['path']).lower();k=int(r['key']);a,b=r['bounds_mm'];c=r['color']or[.2,.2,.2]
  if key=='snakeidex'and 0<=k<=17:return 'frame'
  if key=='vminion' and re.sub(r' v[\d.]+$','',n)in VM_PRINTED:return 'accent'if any(w in n for w in ['duct','face','slider','cage','idler'])else'base'
+ if key=='vminion'and n.startswith(('t-slot ','joining plate ','cast 90 degree corner bracket ')):return 'frame'
+ if key=='vminion'and n.startswith('rubber foot '):return 'rubber'
  if key=='vminion' and n.startswith('v-minion-')and'plate'in n:return 'frame'
  if key=='vminion'and n=='solid'and'idler pulley'in p:return 'metal'
  if 'hand_twisted_nut'in n:return 'base'
@@ -112,10 +115,10 @@ def build(key):
  cfg=CONFIGS[key];cache=CACHE/key;out=OUTPUT/key;out.mkdir(parents=True,exist_ok=True)
  rows=json.loads((cache/'inventory.json').read_text(encoding='utf8'));scene=trimesh.Scene();parts=[];triangles=0;B=np.array(cfg['basis']);origin=np.array(cfg['origin'])
  for r in rows:
-  k=r['key'];s=cq.Shape.importBrep(str(cache/(k+'.brep')));v,f=s.tessellate(.22,.35)
+  k=r['key'];s=cq.Shape.importBrep(str(cache/(k+'.brep')));v,f=s.tessellate(.2,.3)
   if not f:raise RuntimeError('Empty leaf '+key+'/'+k)
   verts=(np.array([p.toTuple()for p in v])-origin)@B.T*.001;rn=role(key,r);g=group(key,r);m=trimesh.Trimesh(vertices=verts,faces=f,process=False)
-  if len(f)>5000 and rn in ['metal','motor','native']:m=m.simplify_quadric_decimation(face_count=max(1500,int(len(f)*.32)),aggression=3)
+  m=clean_mesh(m,small_hardware(r['name'],rn))
   c=r['color']or[.18,.18,.18];rgb=COLORS.get(rn,[round(255*(12.92*x if x<=.0031308 else 1.055*x**(1/2.4)-.055))for x in c[:3]]+[255])
   m.visual=trimesh.visual.TextureVisuals(material=PBRMaterial(name=rn,baseColorFactor=rgb,metallicFactor=.65 if rn in ['metal','frame','brass']else .08,roughnessFactor=.43 if rn in ['metal','frame']else .62,doubleSided=True,alphaMode='BLEND'if rn=='glass'else'OPAQUE'));m.metadata=dict(part_key=k,group=g,appearance_role=rn)
   scene.add_geometry(m,geom_name='part_'+k,node_name='part_'+k)
@@ -123,7 +126,7 @@ def build(key):
   parts.append(dict(key=k,name=title,group=g,appearance_role=rn,native_bounds_mm=r['bounds_mm'],source_valid=r['valid'],native_adjustment_mm=[0,0,0],source_path=r['path']))
   triangles+=len(m.faces)
   if len(parts)%100==0:print(key,len(parts),triangles,flush=True)
- raw=scene.export(file_type='glb');(out/'model.glb.gz').write_bytes(gzip.compress(raw,9,mtime=0));src=json.loads((cache/'source.json').read_text());source=dict(repository='https://github.com/'+src['repository'],revision=src['revision'],version=cfg['version'],path=src['path'],license=cfg['license'],source_step_sha256=src['sha256'])
+ raw=scene.export(file_type='glb',include_normals=True);(out/'model.glb.gz').write_bytes(gzip.compress(raw,9,mtime=0));src=json.loads((cache/'source.json').read_text());source=dict(repository='https://github.com/'+src['repository'],revision=src['revision'],version=cfg['version'],path=src['path'],license=cfg['license'],source_step_sha256=src['sha256'])
  if key=='vminion':source.update(cad_url=src['path'],cad_revision=src['share_version'])
  manifest=dict(machine_id=cfg['id'],source=source,parts=parts,triangles=triangles,native_leaf_count=len(rows),reference_leaves=[p['key']for p in parts if p['group']=='reference'],invalid_reference_leaves=[r['key']for r in rows if not r['valid']])
  profile=dict(machine_id=cfg['id'],title=cfg['title'],size=cfg['size'],build_volume_mm=cfg['dimensions'],source=source,origin_mm=cfg['origin'],basis=cfg['basis'],axes=cfg['axes'],motions=cfg['motions'],palette_defaults=dict(base='#24272c',accent='#e32636',frame='#25292c'))

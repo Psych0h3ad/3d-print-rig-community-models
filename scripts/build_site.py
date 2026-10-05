@@ -12,6 +12,6 @@ def main():
   f=(source/r['path']).resolve();assert f.is_relative_to(source.resolve())and f.stat().st_size==r['bytes']
   with f.open('rb')as stream:assert hashlib.file_digest(stream,'sha256').hexdigest()==r['sha256']
   total+=r['bytes']
- assert total<200_000_000
+ assert total<900_000_000
  shutil.copytree(source,target);(target/'.nojekyll').touch();print(f'Built {len(expected)} community printer files ({total:,} model bytes).')
 if __name__=='__main__':main()

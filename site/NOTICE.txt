@@ -11,6 +11,8 @@ Changes: Display mesh conversion and small-detail reduction; material roles; sou
 Reference geometry separated from the default view: 10 leaves. No identified embedded print supports were removed.
 The current official assembly contains the aluminum XY gantry, Conch hotend and Galileo 2 extruder. Build helpers, duplicate cable-mount/filament bodies and MJF alternatives are separate reference geometry. The bed moves in XY and the printhead in Z. The X rail moves with the bed over its carriage block, which stays on the Y plate. Original build volume: 130 x 100 x 115.5 mm.
 
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
+
 
 Ender-3
 Author: Creality3DPrinting
@@ -22,6 +24,8 @@ License: GPL-3.0
 Native STEP checksum: 6a1e54e484ccf3a157bb6f38b7f262a8b62bfdb21f19880538d6790c88ac5230
 
 Changes: Display mesh conversion and small-detail reduction; material roles; source-mounted rigid axis groups. Calibration aids, unused variants and duplicated assemblies are hidden by default and can be shown as references. Flexible meshes use visual endpoint following, not mechanical simulation. Author CAD invalid reference leaves are retained: none.
+
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
 
 
 Mercury One.1 / Ender-5
@@ -35,6 +39,10 @@ Native STEP checksum: 8a39a244b3d325dd2d632b1f6a4f9328a442dcf42c5e93f4db41b07eb3
 
 Changes: Display mesh conversion and small-detail reduction; material roles; source-mounted rigid axis groups. Calibration aids, unused variants and duplicated assemblies are hidden by default and can be shown as references. Flexible meshes use visual endpoint following, not mechanical simulation. Author CAD invalid reference leaves are retained: 00352.
 
+The display PTFE uses measured annular cap centres and connector axes. The fixed guide stays fixed, the OD4 routing passes above the frame, and the swept preview retains native service length. Tube/frame checks cover an XY grid and the Z endpoints; this is not a filament-force simulation.
+
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
+
 
 Mercury One.1 / Ender-5 Plus
 Author: ZeroGDesign
@@ -46,6 +54,10 @@ License: CC-BY-NC-SA-4.0
 Native STEP checksum: 65750d0a04a2f37904b2455458281cab41275428ee16908307761d99b8472fc3
 
 Changes: Display mesh conversion and small-detail reduction; material roles; source-mounted rigid axis groups. Calibration aids, unused variants and duplicated assemblies are hidden by default and can be shown as references. Flexible meshes use visual endpoint following, not mechanical simulation. Author CAD invalid reference leaves are retained: 00363.
+
+The display PTFE uses measured annular cap centres and connector axes. The fixed guide stays fixed, the OD4 routing passes above the frame, and the swept preview retains native service length. Tube/frame checks cover an XY grid and the Z endpoints; this is not a filament-force simulation.
+
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
 
 
 ProosaXY / MK3-S conversion
@@ -62,6 +74,8 @@ Reference geometry separated from the default view: 0 leaves. No identified embe
 Sherpa Mini and modified Sherpa-derived parts retain the ANNEX Engineering License; EVA-derived parts retain GPL-3.0. Credits: SnakeOilXY / ChipCE; Annex Engineering (Sherpa Mini); EVA-3D (EVA). These component licenses are not replaced by the viewer code license.
 Additional credits: Prusa Research (MK3/S hardware, GPL-2.0), Gregoire Saunier (Bear Extruder and X Axis, GPL-3.0), VORON Design (DIN mount, GPL-3.0). The source assembly contains no XY belts or full wire routes.
 
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
+
 
 SIBOOR S-BOOM
 Author: Lzhikai
@@ -74,6 +88,8 @@ Native STEP checksum: e882532eaa04f20af2ba830218fe82db8710bfd4395a55a97bebbf0984
 
 Changes: Display mesh conversion and small-detail reduction; material roles; source-mounted rigid axis groups. Calibration aids, unused variants and duplicated assemblies are hidden by default and can be shown as references. Flexible meshes use visual endpoint following, not mechanical simulation. Author CAD invalid reference leaves are retained: 00267,00411,00412,00414,00415,00427,00515,00519,00553.
 The V6 heatbreak leaf is aligned to the source heatsink/nozzle axis with a +22 mm X placement correction.
+
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
 
 
 SnakeOil XY / 180
@@ -88,6 +104,8 @@ Native STEP SHA-256: 3ee271884b8d6230c2e2c983c6dc283dfba8764e3926b1fe9fa56b39516
 Changes: Display mesh conversion and small-detail reduction; material roles; source-mounted axis groups. Author placements and dimensions are preserved, with no placement corrections. Axis controls are offsets from the original CAD pose and cover conservative preview ranges, not firmware travel. Flexible belt meshes use visual endpoint following, not belt mechanics.
 Reference geometry separated from the default view: 0 leaves. No identified embedded print supports were removed.
 Sherpa Mini and modified Sherpa-derived parts retain the ANNEX Engineering License; EVA-derived parts retain GPL-3.0. Credits: SnakeOilXY / ChipCE; Annex Engineering (Sherpa Mini); EVA-3D (EVA). These component licenses are not replaced by the viewer code license.
+
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
 
 
 SnakeOil XY-3S / KP3S
@@ -104,6 +122,8 @@ Reference geometry separated from the default view: 0 leaves. No identified embe
 Sherpa Mini and modified Sherpa-derived parts retain the ANNEX Engineering License; EVA-derived parts retain GPL-3.0. Credits: SnakeOilXY / ChipCE; Annex Engineering (Sherpa Mini); EVA-3D (EVA). These component licenses are not replaced by the viewer code license.
 Additional credit: Gregoire Saunier (Bear Extruder and X Axis), GPL-3.0. The assembly is the direct-drive KP3S conversion. The source assembly contains no XY belts or full wire routes.
 
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
+
 
 SnakeOil XY / IDEX
 Author: SnakeOilXY
@@ -119,6 +139,8 @@ Reference geometry separated from the default view: 96 leaves. No identified emb
 Sherpa Mini and modified Sherpa-derived parts retain the ANNEX Engineering License; EVA-derived parts retain GPL-3.0. Credits: SnakeOilXY / ChipCE; Annex Engineering (Sherpa Mini); EVA-3D (EVA). These component licenses are not replaced by the viewer code license.
 Two independent source-mounted heads and their separate X carriage blocks are retained. The duplicate second Sherpa assembly inside each head is separate reference geometry. Source XY belt geometry is partial. IDEX build volume label follows the original project: 250 x 240 x 230 mm.
 
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
+
 
 Rat Rig V-Minion / 180
 Author: Rat-Rig
@@ -133,6 +155,8 @@ Changes: Display mesh conversion and small-detail reduction; material roles; sou
 Reference geometry separated from the default view: 0 leaves. No identified embedded print supports were removed.
 Official public CAD share revision 7, V-Minion 1.0: EVA / LGX Lite / Dragonfly BMO / inductive M8 probe / SKR 2 electronics. The CAD share revision is separate from the pinned printed-parts repository revision. XY belts: X 6 mm, Y 9 mm.
 
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
+
 
 VzBot / 330
 Author: VzBoT3D
@@ -145,3 +169,5 @@ Native STEP checksum: 68b5e77168f67ccbbc9a6f53397cec70bf1a54c6689446be282dd9588b
 
 Changes: Display mesh conversion and small-detail reduction; material roles; source-mounted rigid axis groups. Calibration aids, unused variants and duplicated assemblies are hidden by default and can be shown as references. Flexible meshes use visual endpoint following, not mechanical simulation. Author CAD invalid reference leaves are retained: 02632,02634,02660.
 This is the printed AWD reference from v1.2, not the later CNC Mellow kit. The original master contains partial XY belt geometry and no full CPAP hose. The alternate 2WD idlers, duplicated gantry, MGN9C plate and 15 mm CPAP mount are reference geometry.
+
+CAD surface boundaries are welded before optional small-hardware reduction. Motor, probe, rail and housing surfaces are retained and normals are exported with hard edges. Reduction candidates must preserve winding, boundary topology and bounds.
