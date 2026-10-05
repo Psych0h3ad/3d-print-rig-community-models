@@ -57,7 +57,7 @@ def role(key,r):
  if key=='vminion'and n=='solid'and'idler pulley'in p:return 'metal'
  if 'hand_twisted_nut'in n:return 'base'
  if key in ['snake180','snakeidex','snake3s','proosa']:
-  if k in {'snake180':{411,412,488,572},'snakeidex':{343,373,374,478,518},'snake3s':set(),'proosa':set()}[key]:return 'base'
+  if k in {'snake180':{411,412,488,572},'snakeidex':{343,373,374,478,491,518,530},'snake3s':set(),'proosa':set()}[key]:return 'base'
   if re.search(r'bearing[-_]mount|hinge|gasket|housing|casing|strain-relief|cable-end|spool-(?:roller|end|base)|idler-(?:top|bottom|mid)|^y idler|umbilical splitter|probe dock|handle|lcd-base|reset-button|eject-level|^fs_lever|^(?:cw|camera)-axis',n):return 'base'
   if re.search(r'idler_gear|filament_gear',n):return 'metal'
   if 'active-carbon-foam'in n:return 'rubber'
