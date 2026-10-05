@@ -1,0 +1,5044 @@
+{
+  "all_passed": true,
+  "workers": 3,
+  "parts": 719,
+  "triangles": 2785136,
+  "model_sha256": "95af277a4543096620b30f64d2d3fb6403fa6f07ca624719734d1c3a35c51ea3",
+  "source_step_sha256": "7ebc42e3e041e4c1b5d1a64cef25a5ef002bda2fd187854e01443f0cc29be0e5",
+  "results": [
+    {
+      "key": "0",
+      "triangles": 127355,
+      "maximum_coordinate_error_mm": 1.4900122802252724e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "1",
+      "triangles": 20138,
+      "maximum_coordinate_error_mm": 1.489949863486828e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "2",
+      "triangles": 20138,
+      "maximum_coordinate_error_mm": 1.4900606859491461e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "3",
+      "triangles": 7458,
+      "maximum_coordinate_error_mm": 1.4864242503520586e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "4",
+      "triangles": 7458,
+      "maximum_coordinate_error_mm": 1.4864244779477787e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "5",
+      "triangles": 12207,
+      "maximum_coordinate_error_mm": 1.4901134548495065e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "6",
+      "triangles": 1072,
+      "maximum_coordinate_error_mm": 7.276069802220064e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "7",
+      "triangles": 19556,
+      "maximum_coordinate_error_mm": 1.489849099645113e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "8",
+      "triangles": 1024,
+      "maximum_coordinate_error_mm": 1.1328729565551754e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "9",
+      "triangles": 860,
+      "maximum_coordinate_error_mm": 7.43919290058237e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "10",
+      "triangles": 932,
+      "maximum_coordinate_error_mm": 7.41147740401793e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "11",
+      "triangles": 932,
+      "maximum_coordinate_error_mm": 7.440947663583941e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "12",
+      "triangles": 5124,
+      "maximum_coordinate_error_mm": 7.44927344809021e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "13",
+      "triangles": 161518,
+      "maximum_coordinate_error_mm": 3.7251556561646026e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "14",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.489224898953978e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "15",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.447891248180127e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "16",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4886997745655606e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "17",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.450452060853152e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "18",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.48986835091236e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "19",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.447643002311821e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "20",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.447643474156607e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "21",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4898684064235113e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "22",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4887066190905074e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "23",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4887065746815864e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "24",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.450435463018934e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "25",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.4504349911741485e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "26",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4391546533991715e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "27",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.439154625643596e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "28",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.44992403878264e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "29",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4499241775605185e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "30",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4898911548932858e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "31",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.4248471260141e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "32",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.446319671977619e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "33",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.4382273951290045e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "34",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.450084660298728e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "35",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4888365096332734e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "36",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.487958917190113e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "37",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.4432428831539e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "38",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4898909495020263e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "39",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.450415090426432e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "40",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.449482669619201e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "41",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4898912825689337e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "42",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.443752531033354e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "43",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.450083577831279e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "44",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.445071253942004e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "45",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.450083244764372e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "46",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4884873611453742e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "47",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.3705226065141574e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "48",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.4855219498954852e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "49",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.3228383777263986e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "50",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.4854593499702418e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "51",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.430711462808048e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "52",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 1.4887557797660378e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "53",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 1.4894079303218177e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "54",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 3.7191063839703276e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "55",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.450264460917566e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "56",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 3.7212117415252877e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "57",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.424759612684184e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "58",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.447548133754367e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "59",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.440029398120274e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "60",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 1.4887557686638075e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "61",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 3.725096717199783e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "62",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 1.4894857902625347e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "63",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.425265124982872e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "64",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 3.7191064394814788e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "65",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.443993671474303e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "66",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 3.723028454971633e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "67",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 1.861135232039679e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "68",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.441352367631993e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "69",
+      "triangles": 1950,
+      "maximum_coordinate_error_mm": 7.448172162360933e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "70",
+      "triangles": 858,
+      "maximum_coordinate_error_mm": 1.4032618178561052e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "71",
+      "triangles": 858,
+      "maximum_coordinate_error_mm": 1.403261762344954e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "72",
+      "triangles": 9928,
+      "maximum_coordinate_error_mm": 2.9660657707708538e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "73",
+      "triangles": 12886,
+      "maximum_coordinate_error_mm": 1.4849063423305608e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "74",
+      "triangles": 7960,
+      "maximum_coordinate_error_mm": 2.9722762140416137e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "75",
+      "triangles": 10420,
+      "maximum_coordinate_error_mm": 2.9782260990707243e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "76",
+      "triangles": 6524,
+      "maximum_coordinate_error_mm": 1.4840947970551355e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "77",
+      "triangles": 1588,
+      "maximum_coordinate_error_mm": 7.442560290282785e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "78",
+      "triangles": 932,
+      "maximum_coordinate_error_mm": 7.38860289617449e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "79",
+      "triangles": 6294,
+      "maximum_coordinate_error_mm": 7.441968680188538e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "80",
+      "triangles": 1596,
+      "maximum_coordinate_error_mm": 1.4843099915839986e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "81",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.422773840026764e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "82",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.396433437945049e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "83",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.359747838941999e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "84",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.44945063968494e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "85",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 2.9669109724572706e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "86",
+      "triangles": 3628,
+      "maximum_coordinate_error_mm": 7.4469373445573694e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "87",
+      "triangles": 6184,
+      "maximum_coordinate_error_mm": 2.9736471951480326e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "88",
+      "triangles": 952,
+      "maximum_coordinate_error_mm": 1.4854720564727586e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "89",
+      "triangles": 1256,
+      "maximum_coordinate_error_mm": 1.488134743210523e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "90",
+      "triangles": 360,
+      "maximum_coordinate_error_mm": 1.4321583141629901e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "91",
+      "triangles": 380,
+      "maximum_coordinate_error_mm": 2.9304536242058532e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "92",
+      "triangles": 13574,
+      "maximum_coordinate_error_mm": 2.9796419442895683e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "93",
+      "triangles": 13558,
+      "maximum_coordinate_error_mm": 2.9796419553917985e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "94",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 7.436857990539281e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "95",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 7.4361005131251545e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "96",
+      "triangles": 9684,
+      "maximum_coordinate_error_mm": 2.9665676026802146e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "97",
+      "triangles": 6728,
+      "maximum_coordinate_error_mm": 1.4832141903564633e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "98",
+      "triangles": 1560,
+      "maximum_coordinate_error_mm": 7.400316109906768e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "99",
+      "triangles": 52,
+      "maximum_coordinate_error_mm": 1.2997656784197176e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "100",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.24624821257791e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "101",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.428653886476511e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "102",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4455109022597554e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "103",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.436369325874992e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "104",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.423807596440568e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "105",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.427301329521185e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "106",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.427301135232156e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "107",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.979920965540117e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "108",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.447141014971237e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "109",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4378407877162545e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "110",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4806201542594266e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "111",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4846255669276331e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "112",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.979128321811686e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "113",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9794769318414183e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "114",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.3705223955717827e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "115",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.3705224011228978e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "116",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 7.444030669656598e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "117",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 7.446897876128844e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "118",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4820351834643475e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "119",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4850788043752061e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "120",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4892372446340119e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "121",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9769074538776863e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "122",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9691744507509554e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "123",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.444225014197059e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "124",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4463798738211295e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "125",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.9606087803557557e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "126",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.9563681169797462e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "127",
+      "triangles": 1581,
+      "maximum_coordinate_error_mm": 1.4648584623078165e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "128",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4892372390828967e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "129",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4892372390828967e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "130",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4897753919385082e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "131",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4892372279806665e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "132",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4892372224295514e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "133",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4892372224295514e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "134",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4900604361489656e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "135",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.489237205776206e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "136",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.48956538215117e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "137",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9750564234376498e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "138",
+      "triangles": 420,
+      "maximum_coordinate_error_mm": 1.4749309329431526e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "139",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.489237250185127e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "140",
+      "triangles": 1838,
+      "maximum_coordinate_error_mm": 7.431094350973666e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "141",
+      "triangles": 9926,
+      "maximum_coordinate_error_mm": 2.966066137144452e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "142",
+      "triangles": 7960,
+      "maximum_coordinate_error_mm": 2.9722758920769365e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "143",
+      "triangles": 1588,
+      "maximum_coordinate_error_mm": 7.4470684063854264e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "144",
+      "triangles": 932,
+      "maximum_coordinate_error_mm": 7.43355299537285e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "145",
+      "triangles": 6294,
+      "maximum_coordinate_error_mm": 7.449113964552723e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "146",
+      "triangles": 1596,
+      "maximum_coordinate_error_mm": 1.4631596378933409e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "147",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.449122263469832e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "148",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.443363203574194e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "149",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.434843019016313e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "150",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.4487150891755505e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "151",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 2.963635126196351e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "152",
+      "triangles": 3628,
+      "maximum_coordinate_error_mm": 7.4490464629928255e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "153",
+      "triangles": 6184,
+      "maximum_coordinate_error_mm": 2.975713142561176e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "154",
+      "triangles": 952,
+      "maximum_coordinate_error_mm": 1.4880307375175761e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "155",
+      "triangles": 6524,
+      "maximum_coordinate_error_mm": 1.4883738685966819e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "156",
+      "triangles": 12896,
+      "maximum_coordinate_error_mm": 1.4873935805237437e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "157",
+      "triangles": 10420,
+      "maximum_coordinate_error_mm": 2.9782256882882052e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "158",
+      "triangles": 1256,
+      "maximum_coordinate_error_mm": 1.4849550200590755e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "159",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 7.448259065068186e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "160",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 7.370256599470437e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "161",
+      "triangles": 13558,
+      "maximum_coordinate_error_mm": 2.9796418221650356e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "162",
+      "triangles": 13550,
+      "maximum_coordinate_error_mm": 2.979641933187338e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "163",
+      "triangles": 9684,
+      "maximum_coordinate_error_mm": 2.966567169693235e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "164",
+      "triangles": 6728,
+      "maximum_coordinate_error_mm": 1.4850280671829807e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "165",
+      "triangles": 380,
+      "maximum_coordinate_error_mm": 2.9304540571928328e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "166",
+      "triangles": 360,
+      "maximum_coordinate_error_mm": 1.4820908500468022e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "167",
+      "triangles": 1560,
+      "maximum_coordinate_error_mm": 7.405881574662487e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "168",
+      "triangles": 52,
+      "maximum_coordinate_error_mm": 1.1837708702167049e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "169",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4868568209980282e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "170",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4900707112630585e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "171",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.469281091237562e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "172",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4692811134420225e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "173",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4900707223652887e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "174",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.9702275861076544e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "175",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.9618154262500695e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "176",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 7.450364769567841e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "177",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 7.445699057306854e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "178",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.353785941299762e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "179",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.3968499936238885e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "180",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.3825486557321796e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "181",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.437870541693314e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "182",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.441528615537152e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "183",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4456293908120585e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "184",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.385778683088873e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "185",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4273018291215465e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "186",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.42730155156579e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "187",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.488862777510036e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "188",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9784590238612907e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "189",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9801839218634996e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "190",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9787600941411085e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "191",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.32283844433978e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "192",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.3228384776464708e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "193",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4849456775323233e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "194",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.9779859911371886e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "195",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9721456962228388e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "196",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 7.445699057306854e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "197",
+      "triangles": 1581,
+      "maximum_coordinate_error_mm": 1.3228384998509313e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "198",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.969475465519622e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "199",
+      "triangles": 1838,
+      "maximum_coordinate_error_mm": 7.42381062179831e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "200",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.486856854304719e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "201",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4888627386522302e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "202",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4888627053455394e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "203",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4888626720388487e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "204",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.488862638732158e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "205",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4888626054254672e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "206",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.489994455594612e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "207",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.488872014565601e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "208",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4898608347024833e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "209",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4888624666475891e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "210",
+      "triangles": 420,
+      "maximum_coordinate_error_mm": 1.4216751997864208e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "211",
+      "triangles": 11798,
+      "maximum_coordinate_error_mm": 2.9660660150199192e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "212",
+      "triangles": 12886,
+      "maximum_coordinate_error_mm": 1.487393636034895e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "213",
+      "triangles": 7960,
+      "maximum_coordinate_error_mm": 2.9722759808947785e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "214",
+      "triangles": 6524,
+      "maximum_coordinate_error_mm": 1.4898583200473325e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "215",
+      "triangles": 1588,
+      "maximum_coordinate_error_mm": 1.4817575666459248e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "216",
+      "triangles": 932,
+      "maximum_coordinate_error_mm": 1.4388673419407638e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "217",
+      "triangles": 6294,
+      "maximum_coordinate_error_mm": 1.4889672550477684e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "218",
+      "triangles": 1596,
+      "maximum_coordinate_error_mm": 1.4887989896461562e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "219",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.4863083375171726e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "220",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.4884224075473185e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "221",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.4868540232360061e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "222",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.4887217736347935e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "223",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 2.9146522861900337e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "224",
+      "triangles": 3628,
+      "maximum_coordinate_error_mm": 1.4855670082969397e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "225",
+      "triangles": 6184,
+      "maximum_coordinate_error_mm": 2.9798042477935383e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "226",
+      "triangles": 952,
+      "maximum_coordinate_error_mm": 1.486946077378093e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "227",
+      "triangles": 1256,
+      "maximum_coordinate_error_mm": 1.4898486166980973e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "228",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 9.38193628341466e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "229",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 8.857306388332375e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "230",
+      "triangles": 13584,
+      "maximum_coordinate_error_mm": 2.979373625588977e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "231",
+      "triangles": 13558,
+      "maximum_coordinate_error_mm": 2.9795624301165446e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "232",
+      "triangles": 360,
+      "maximum_coordinate_error_mm": 1.4820909999269105e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "233",
+      "triangles": 380,
+      "maximum_coordinate_error_mm": 2.930453979477221e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "234",
+      "triangles": 9684,
+      "maximum_coordinate_error_mm": 2.9665672474088467e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "235",
+      "triangles": 6728,
+      "maximum_coordinate_error_mm": 1.485031148051874e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "236",
+      "triangles": 1561,
+      "maximum_coordinate_error_mm": 1.3840028234568535e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "237",
+      "triangles": 52,
+      "maximum_coordinate_error_mm": 1.4884553312111137e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "238",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.959819633829852e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "239",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.959819633829852e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "240",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 1.48311214975827e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "241",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 1.483364581167379e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "242",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.976326429759979e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "243",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.974784218956472e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "244",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.4858147323604243e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "245",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.4858149266494536e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "246",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.3840140367094023e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "247",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.3840140422605174e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "248",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.2600255783201675e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "249",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.2600255783201675e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "250",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.9784263277932155e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "251",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4879850462889976e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "252",
+      "triangles": 1581,
+      "maximum_coordinate_error_mm": 1.4845908391514229e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "253",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.8710105848261946e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "254",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.489042300573118e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "255",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4890422950220028e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "256",
+      "triangles": 420,
+      "maximum_coordinate_error_mm": 1.4216749666395856e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "257",
+      "triangles": 1838,
+      "maximum_coordinate_error_mm": 1.4784150514923766e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "258",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4692756011847052e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "259",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.979794766488908e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "260",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4864769026790015e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "261",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9797947775911382e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "262",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4692756011847052e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "263",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4864850128581963e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "264",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4900652212102017e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "265",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4900652212102017e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "266",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4822048421958556e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "267",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4822048421958556e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "268",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4822048477469707e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "269",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4859804109423891e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "270",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.489966361400974e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "271",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878022480679931e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "272",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4894558086897547e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "273",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4895728872588165e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "274",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4890534194567095e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "275",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4879174503601433e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "276",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878294596343267e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "277",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4864769137812317e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "278",
+      "triangles": 7960,
+      "maximum_coordinate_error_mm": 2.972275736645713e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "279",
+      "triangles": 1588,
+      "maximum_coordinate_error_mm": 1.481746886300428e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "280",
+      "triangles": 932,
+      "maximum_coordinate_error_mm": 1.438867036629432e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "281",
+      "triangles": 6294,
+      "maximum_coordinate_error_mm": 1.4889669608386669e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "282",
+      "triangles": 1596,
+      "maximum_coordinate_error_mm": 1.4822845395556783e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "283",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.486308037756956e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "284",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.4884221077871018e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "285",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.4868537123735592e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "286",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 1.4887214683234617e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "287",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 2.9443644411486503e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "288",
+      "triangles": 3628,
+      "maximum_coordinate_error_mm": 1.4855665531054996e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "289",
+      "triangles": 6184,
+      "maximum_coordinate_error_mm": 2.978448221391261e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "290",
+      "triangles": 952,
+      "maximum_coordinate_error_mm": 1.4896292865884675e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "291",
+      "triangles": 11342,
+      "maximum_coordinate_error_mm": 2.9660661704511426e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "292",
+      "triangles": 6524,
+      "maximum_coordinate_error_mm": 1.4898547451291932e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "293",
+      "triangles": 12896,
+      "maximum_coordinate_error_mm": 1.4870683295864495e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "294",
+      "triangles": 10420,
+      "maximum_coordinate_error_mm": 2.9782256216748237e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "295",
+      "triangles": 1256,
+      "maximum_coordinate_error_mm": 1.489796302989177e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "296",
+      "triangles": 9684,
+      "maximum_coordinate_error_mm": 2.9665673251244584e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "297",
+      "triangles": 6728,
+      "maximum_coordinate_error_mm": 1.4832143291343414e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "298",
+      "triangles": 380,
+      "maximum_coordinate_error_mm": 2.9304541238062143e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "299",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 8.857308109178064e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "300",
+      "triangles": 1680,
+      "maximum_coordinate_error_mm": 9.381937948749197e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "301",
+      "triangles": 360,
+      "maximum_coordinate_error_mm": 1.3589788405710124e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "302",
+      "triangles": 13544,
+      "maximum_coordinate_error_mm": 2.9796415557115097e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "303",
+      "triangles": 13592,
+      "maximum_coordinate_error_mm": 2.9796415446092794e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "304",
+      "triangles": 1561,
+      "maximum_coordinate_error_mm": 1.3840033008527541e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "305",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.2099909796337016e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "306",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.2099909685314714e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "307",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4864769526390376e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "308",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4864770359057644e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "309",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.3840141699361652e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "310",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.3840139756471359e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "311",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4890422450619667e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "312",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4890422228575062e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "313",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.95934794447561e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "314",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4882384546943683e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "315",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9795677036759116e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "316",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9650478849951867e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "317",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9783548738393506e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "318",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9666327505672996e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "319",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4237830303631682e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "320",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.3863515946344052e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "321",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4886774479805354e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "322",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4876052556456187e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "323",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.4899402211998591e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "324",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.4899402378532045e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "325",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 1.4884068033627074e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "326",
+      "triangles": 1578,
+      "maximum_coordinate_error_mm": 1.4884068200160527e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "327",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4872548304012412e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "328",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.487554995849294e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "329",
+      "triangles": 1581,
+      "maximum_coordinate_error_mm": 1.4898055955558931e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "330",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.9726624495296505e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "331",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.9715505611704884e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "332",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4882384491432532e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "333",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.488238443592138e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "334",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4899859568373586e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "335",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4900522704586194e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "336",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.489601941795371e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "337",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4882394483439754e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "338",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4885414456600188e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "339",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4882384213876776e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "340",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4899309563887186e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "341",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9700028769674702e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "342",
+      "triangles": 420,
+      "maximum_coordinate_error_mm": 1.4749314214412834e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "343",
+      "triangles": 1838,
+      "maximum_coordinate_error_mm": 1.4784149571234195e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "344",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4842425455352526e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "345",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4864769637412678e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "346",
+      "triangles": 4984,
+      "maximum_coordinate_error_mm": 1.4876703036126315e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "347",
+      "triangles": 7324,
+      "maximum_coordinate_error_mm": 7.449680983206974e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "348",
+      "triangles": 10684,
+      "maximum_coordinate_error_mm": 1.4787872315569217e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "349",
+      "triangles": 10684,
+      "maximum_coordinate_error_mm": 1.4789700852890775e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "350",
+      "triangles": 30938,
+      "maximum_coordinate_error_mm": 1.4777593759784935e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "351",
+      "triangles": 31060,
+      "maximum_coordinate_error_mm": 1.4852775953588804e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "352",
+      "triangles": 27168,
+      "maximum_coordinate_error_mm": 1.4894385391706066e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "353",
+      "triangles": 27164,
+      "maximum_coordinate_error_mm": 1.4894385391706066e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "354",
+      "triangles": 53340,
+      "maximum_coordinate_error_mm": 1.4893915378788591e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "355",
+      "triangles": 52703,
+      "maximum_coordinate_error_mm": 1.4899435796245086e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "356",
+      "triangles": 8936,
+      "maximum_coordinate_error_mm": 7.450075417692048e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "357",
+      "triangles": 8936,
+      "maximum_coordinate_error_mm": 7.448662603382061e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "358",
+      "triangles": 6184,
+      "maximum_coordinate_error_mm": 7.448150124433894e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "359",
+      "triangles": 6184,
+      "maximum_coordinate_error_mm": 7.439520027796576e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "360",
+      "triangles": 6130,
+      "maximum_coordinate_error_mm": 1.4897519773349188e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "361",
+      "triangles": 6298,
+      "maximum_coordinate_error_mm": 1.4897519773349188e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "362",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 1.4835186024075853e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "363",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 1.4753142041357137e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "364",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 1.4835185413453189e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "365",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 1.475314309606901e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "366",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.43080058596135e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "367",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.237332483311931e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "368",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.414399955107953e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "369",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.418168468387165e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "370",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 7.328206902412759e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "371",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 7.393168716118836e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "372",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.449132116699175e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "373",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.436722154752218e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "374",
+      "triangles": 5980,
+      "maximum_coordinate_error_mm": 7.448450134450724e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "375",
+      "triangles": 8228,
+      "maximum_coordinate_error_mm": 7.448462763237629e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "376",
+      "triangles": 13498,
+      "maximum_coordinate_error_mm": 7.45046302430552e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "377",
+      "triangles": 13572,
+      "maximum_coordinate_error_mm": 7.450283778798195e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "378",
+      "triangles": 13610,
+      "maximum_coordinate_error_mm": 7.450309591483517e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "379",
+      "triangles": 13608,
+      "maximum_coordinate_error_mm": 7.450447203627419e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "380",
+      "triangles": 9684,
+      "maximum_coordinate_error_mm": 1.482478212411209e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "381",
+      "triangles": 6728,
+      "maximum_coordinate_error_mm": 1.4865947750575259e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "382",
+      "triangles": 9684,
+      "maximum_coordinate_error_mm": 1.4871648468250953e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "383",
+      "triangles": 6728,
+      "maximum_coordinate_error_mm": 1.479841782447977e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "384",
+      "triangles": 52,
+      "maximum_coordinate_error_mm": 1.2368886692648573e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "385",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.4898128675167044e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "386",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.489630935269659e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "387",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.4891697430741146e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "388",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.4897882649744787e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "389",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.4895450262120136e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "390",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.4900122025096607e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "391",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.4889716626331762e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "392",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 1.4898927147566354e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "393",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 7.445200261857465e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "394",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 7.447271355154328e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "395",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 7.450146277676595e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "396",
+      "triangles": 9072,
+      "maximum_coordinate_error_mm": 7.449198591302775e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "397",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.444916183541039e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "398",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4847262919115423e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "399",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4847262919115423e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "400",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449383415680799e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "401",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4418804452136555e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "402",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4465549837476885e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "403",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.488105483282709e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "404",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4896271050002241e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "405",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449648814494836e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "406",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.448422767453167e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "407",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449383443436375e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "408",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.448239774943133e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "409",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.448523520192651e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "410",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.448524491637798e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "411",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 7.41377742530247e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "412",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 7.413778368992041e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "413",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 7.413791525134883e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "414",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 7.413792357802151e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "415",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4889413924024097e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "416",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449474009879609e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "417",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4879069143436396e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "418",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4500540736544e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "419",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4464469590473925e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "420",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.44561298726687e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "421",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4879050269644978e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "422",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4899698141945805e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "423",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4896981703760304e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "424",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4883455246028632e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "425",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4883455246028632e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "426",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4883692944778204e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "427",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4875808695968828e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "428",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4893913602431752e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "429",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4865165376409806e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "430",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4898082323355766e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "431",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4896806843633925e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "432",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4865299990951542e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "433",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4901071043738057e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "434",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4859072139383755e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "435",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4859090124996754e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "436",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4809922843639356e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "437",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.488557010986824e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "438",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4896279210141472e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "439",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4889089627878604e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "440",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4872442555269316e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "441",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.435812632294869e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "442",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.448398869902562e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "443",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 1.4759401090191915e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "444",
+      "triangles": 11414,
+      "maximum_coordinate_error_mm": 1.4898557776366061e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "445",
+      "triangles": 8182,
+      "maximum_coordinate_error_mm": 1.488911061109377e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "446",
+      "triangles": 864,
+      "maximum_coordinate_error_mm": 1.488079875988646e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "447",
+      "triangles": 856,
+      "maximum_coordinate_error_mm": 1.4692380478908973e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "448",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878965337583594e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "449",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878965226561292e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "450",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.487896517105014e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "451",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878965060027838e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "452",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878965060027838e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "453",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878964893494384e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "454",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878964893494384e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "455",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878964782472082e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "456",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4878964782472082e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "457",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446447958248115e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "458",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446448957448837e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "459",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446448957448837e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "460",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446448957448837e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "461",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446448957448837e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "462",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446448929693261e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "463",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446448929693261e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "464",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446448957448837e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "465",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.450320138602251e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "466",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.445838723363352e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "467",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.445838723363352e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "468",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.445838723363352e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "469",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.445838723363352e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "470",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.445838723363352e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "471",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.445838723363352e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "472",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 7.414484498591278e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "473",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4093401057291288e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "474",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 7.441697258414592e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "475",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 7.4172035735564634e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "476",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4617948018713633e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "477",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.485271627910123e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "478",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 7.398169632466534e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "479",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4093401057291288e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "480",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4769312439710802e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "481",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.474606026174996e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "482",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4852730656489399e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "483",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4746060372772263e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "484",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4852730656489399e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "485",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4223414168679227e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "486",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.4882859000753257e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "487",
+      "triangles": 674,
+      "maximum_coordinate_error_mm": 1.474605981766075e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "488",
+      "triangles": 1928,
+      "maximum_coordinate_error_mm": 1.4874793119457053e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "489",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 1.4849877605360717e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "490",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.366345922132922e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "491",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.4111698167289575e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "492",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.4829520944559249e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "493",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.4886994581519986e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "494",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.450408734399616e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "495",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.445906780034761e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "496",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.4797052305670633e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "497",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.335797663765575e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "498",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 1.479224204237184e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "499",
+      "triangles": 520,
+      "maximum_coordinate_error_mm": 7.321404010829369e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "500",
+      "triangles": 5812,
+      "maximum_coordinate_error_mm": 2.9708445703491293e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "501",
+      "triangles": 3426,
+      "maximum_coordinate_error_mm": 2.9621501806964545e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "502",
+      "triangles": 3536,
+      "maximum_coordinate_error_mm": 2.9621501806964545e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "503",
+      "triangles": 4906,
+      "maximum_coordinate_error_mm": 2.9796049849650785e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "504",
+      "triangles": 14950,
+      "maximum_coordinate_error_mm": 2.9770156118047453e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "505",
+      "triangles": 14950,
+      "maximum_coordinate_error_mm": 2.9770156118047453e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "506",
+      "triangles": 14964,
+      "maximum_coordinate_error_mm": 2.9770156118047453e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "507",
+      "triangles": 14964,
+      "maximum_coordinate_error_mm": 2.9770156118047453e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "508",
+      "triangles": 1928,
+      "maximum_coordinate_error_mm": 2.9490040631685588e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "509",
+      "triangles": 592,
+      "maximum_coordinate_error_mm": 2.661966203021393e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "510",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9637794218828617e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "511",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9727453165762086e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "512",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9769305798232892e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "513",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.978035551493008e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "514",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.976778856744744e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "515",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.974359514240632e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "516",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.967886902904837e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "517",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.969400170194092e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "518",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9711707094648432e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "519",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.97327512610579e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "520",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9792891043101122e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "521",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9743640328483423e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "522",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.976297841517095e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "523",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9749235852527534e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "524",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.977108659596439e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "525",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9793543632194996e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "526",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "527",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "528",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "529",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "530",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "531",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "532",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "533",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.877496696473969e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "534",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.8851259936679696e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "535",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.8851259936679696e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "536",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 2.959648892630895e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "537",
+      "triangles": 20003,
+      "maximum_coordinate_error_mm": 7.445131872119148e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "538",
+      "triangles": 4112,
+      "maximum_coordinate_error_mm": 7.448973299295503e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "539",
+      "triangles": 4462,
+      "maximum_coordinate_error_mm": 7.438356319777739e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "540",
+      "triangles": 3068,
+      "maximum_coordinate_error_mm": 1.4873643039425843e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "541",
+      "triangles": 20060,
+      "maximum_coordinate_error_mm": 7.44923964179911e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "542",
+      "triangles": 3772,
+      "maximum_coordinate_error_mm": 7.448206607030272e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "543",
+      "triangles": 2204,
+      "maximum_coordinate_error_mm": 7.41989858443759e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "544",
+      "triangles": 2102,
+      "maximum_coordinate_error_mm": 7.388850586931284e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "545",
+      "triangles": 7236,
+      "maximum_coordinate_error_mm": 7.448876349069877e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "546",
+      "triangles": 18493,
+      "maximum_coordinate_error_mm": 7.450469824421546e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "547",
+      "triangles": 2204,
+      "maximum_coordinate_error_mm": 7.419901970617815e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "548",
+      "triangles": 4344,
+      "maximum_coordinate_error_mm": 7.4477141120965484e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "549",
+      "triangles": 2636,
+      "maximum_coordinate_error_mm": 7.448577865609707e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "550",
+      "triangles": 3678,
+      "maximum_coordinate_error_mm": 7.448583999591918e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "551",
+      "triangles": 3678,
+      "maximum_coordinate_error_mm": 7.449946243243133e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "552",
+      "triangles": 3678,
+      "maximum_coordinate_error_mm": 7.442284094549834e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "553",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.33595298396672e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "554",
+      "triangles": 3852,
+      "maximum_coordinate_error_mm": 7.386244282869825e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "555",
+      "triangles": 32136,
+      "maximum_coordinate_error_mm": 7.450225242289221e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "556",
+      "triangles": 32128,
+      "maximum_coordinate_error_mm": 7.449885597310413e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "557",
+      "triangles": 4484,
+      "maximum_coordinate_error_mm": 7.450273481479641e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "558",
+      "triangles": 2048,
+      "maximum_coordinate_error_mm": 7.412028130149295e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "559",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.403026330843332e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "560",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.450076333626043e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "561",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.4301021446565585e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "562",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.364947374188802e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "563",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.323135653436452e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "564",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.33524219143078e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "565",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.436655458104013e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "566",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.444486388452631e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "567",
+      "triangles": 10472,
+      "maximum_coordinate_error_mm": 7.448821059963251e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "568",
+      "triangles": 3072,
+      "maximum_coordinate_error_mm": 7.449321964836386e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "569",
+      "triangles": 968,
+      "maximum_coordinate_error_mm": 7.418010788962093e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "570",
+      "triangles": 4380,
+      "maximum_coordinate_error_mm": 7.43931893865124e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "571",
+      "triangles": 2912,
+      "maximum_coordinate_error_mm": 7.450423611388146e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "572",
+      "triangles": 858,
+      "maximum_coordinate_error_mm": 7.27461449412381e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "573",
+      "triangles": 1532,
+      "maximum_coordinate_error_mm": 7.340434676761376e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "574",
+      "triangles": 1532,
+      "maximum_coordinate_error_mm": 7.340434621250225e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "575",
+      "triangles": 8228,
+      "maximum_coordinate_error_mm": 7.448464456327741e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "576",
+      "triangles": 708,
+      "maximum_coordinate_error_mm": 7.409098695676519e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "577",
+      "triangles": 904,
+      "maximum_coordinate_error_mm": 7.4385350101735526e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "578",
+      "triangles": 17512,
+      "maximum_coordinate_error_mm": 1.4899833089554448e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "579",
+      "triangles": 332,
+      "maximum_coordinate_error_mm": 7.351077080386403e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "580",
+      "triangles": 504,
+      "maximum_coordinate_error_mm": 7.4447839559788065e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "581",
+      "triangles": 7620,
+      "maximum_coordinate_error_mm": 7.4476535216749795e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "582",
+      "triangles": 42491,
+      "maximum_coordinate_error_mm": 7.45037914695601e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "583",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 7.350537539752011e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "584",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.415599106996851e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "585",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4444410080865e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "586",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4486277146235125e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "587",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4320517517989515e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "588",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.442014504643879e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "589",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449430072803409e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "590",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446537303446021e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "591",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4417896844813924e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "592",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.435378063247455e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "593",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.446591621107501e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "594",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449176747664765e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "595",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.444964755798367e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "596",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4502120028796526e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "597",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.448583361213679e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "598",
+      "triangles": 10894,
+      "maximum_coordinate_error_mm": 7.448468980486567e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "599",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.442824107029011e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "600",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449028088801768e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "601",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.447926081427525e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "602",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.44938119523475e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "603",
+      "triangles": 5836,
+      "maximum_coordinate_error_mm": 7.447023109286022e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "604",
+      "triangles": 5836,
+      "maximum_coordinate_error_mm": 7.449961092476087e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "605",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.450288136423566e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "606",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.38905059360917e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "607",
+      "triangles": 606,
+      "maximum_coordinate_error_mm": 7.374556881822869e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "608",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449504429990483e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "609",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.449503541812064e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "610",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 7.439135779607753e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "611",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 7.439136001652358e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "612",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 7.442782751221344e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "613",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 7.4427825014211635e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "614",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.42565231526271e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "615",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.411656122169319e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "616",
+      "triangles": 3192,
+      "maximum_coordinate_error_mm": 7.449051930841222e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "617",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 7.447526984005748e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "618",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 7.4464660271278404e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "619",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 7.4349010281693495e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "620",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 7.449342948051552e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "621",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 7.44923603357428e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "622",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 7.446156108370516e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "623",
+      "triangles": 588,
+      "maximum_coordinate_error_mm": 7.4359311763583236e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "624",
+      "triangles": 552,
+      "maximum_coordinate_error_mm": 7.436174287445141e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "625",
+      "triangles": 16428,
+      "maximum_coordinate_error_mm": 1.48994206417008e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "626",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 4.360214411747165e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "627",
+      "triangles": 8242,
+      "maximum_coordinate_error_mm": 2.978899604766383e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "628",
+      "triangles": 11558,
+      "maximum_coordinate_error_mm": 2.9798380207779473e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "629",
+      "triangles": 1672,
+      "maximum_coordinate_error_mm": 2.9782322497062808e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "630",
+      "triangles": 1836,
+      "maximum_coordinate_error_mm": 2.978509527906681e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "631",
+      "triangles": 4788,
+      "maximum_coordinate_error_mm": 2.9799160250476575e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "632",
+      "triangles": 2656,
+      "maximum_coordinate_error_mm": 2.9748336793922192e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "633",
+      "triangles": 500,
+      "maximum_coordinate_error_mm": 2.979637325761786e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "634",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.970613899311303e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "635",
+      "triangles": 592,
+      "maximum_coordinate_error_mm": 2.9798827627658397e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "636",
+      "triangles": 27834,
+      "maximum_coordinate_error_mm": 2.9799354650528187e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "637",
+      "triangles": 708,
+      "maximum_coordinate_error_mm": 2.9799647971451293e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "638",
+      "triangles": 904,
+      "maximum_coordinate_error_mm": 2.9692291514393787e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "639",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.97416240524484e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "640",
+      "triangles": 164,
+      "maximum_coordinate_error_mm": 2.9666602507916195e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "641",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.978909707795907e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "642",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9722235006524045e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "643",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.979801538849358e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "644",
+      "triangles": 1022,
+      "maximum_coordinate_error_mm": 2.978286628430027e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "645",
+      "triangles": 12170,
+      "maximum_coordinate_error_mm": 2.9782106336639913e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "646",
+      "triangles": 1812,
+      "maximum_coordinate_error_mm": 2.9795927058984262e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "647",
+      "triangles": 4510,
+      "maximum_coordinate_error_mm": 2.977521906810665e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "648",
+      "triangles": 2736,
+      "maximum_coordinate_error_mm": 2.9794535838512104e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "649",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 2.9794178235675872e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "650",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 2.9739821383323317e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "651",
+      "triangles": 672,
+      "maximum_coordinate_error_mm": 2.9502415843651875e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "652",
+      "triangles": 12970,
+      "maximum_coordinate_error_mm": 2.9790764966008965e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "653",
+      "triangles": 3520,
+      "maximum_coordinate_error_mm": 2.9761966668928608e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "654",
+      "triangles": 1224,
+      "maximum_coordinate_error_mm": 2.9337461571188328e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "655",
+      "triangles": 10300,
+      "maximum_coordinate_error_mm": 2.9796035971862977e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "656",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.974950086276351e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "657",
+      "triangles": 336,
+      "maximum_coordinate_error_mm": 2.9721692329509608e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "658",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.97884581446084e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "659",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9788467803548713e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "660",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9791524802647018e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "661",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9798907230649263e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "662",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 2.978098812000951e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "663",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 2.977030888473564e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "664",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 2.9726004879826462e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "665",
+      "triangles": 4704,
+      "maximum_coordinate_error_mm": 2.9801703105292177e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "666",
+      "triangles": 704,
+      "maximum_coordinate_error_mm": 2.9722276528865166e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "667",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.9745900631539257e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "668",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 2.974070245631566e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "669",
+      "triangles": 26260,
+      "maximum_coordinate_error_mm": 7.4452592424556485e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "670",
+      "triangles": 10456,
+      "maximum_coordinate_error_mm": 7.4499125479743356e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "671",
+      "triangles": 1220,
+      "maximum_coordinate_error_mm": 7.434559079477765e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "672",
+      "triangles": 22440,
+      "maximum_coordinate_error_mm": 7.445778354986388e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "673",
+      "triangles": 396,
+      "maximum_coordinate_error_mm": 3.7249804213379534e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "674",
+      "triangles": 9034,
+      "maximum_coordinate_error_mm": 3.724682451355932e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "675",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.434713400478188e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "676",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.388688771925445e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "677",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.434713289455885e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "678",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.443002852935976e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "679",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.430011245146417e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "680",
+      "triangles": 1554,
+      "maximum_coordinate_error_mm": 7.443002686402522e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "681",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.4434360064490335e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "682",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 3.680978716280592e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "683",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.44564387922253e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "684",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.419003661413015e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "685",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.449746458609852e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "686",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.443436034204609e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "687",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.4434361452269115e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "688",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.437724797165757e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "689",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.449746264320822e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "690",
+      "triangles": 1112,
+      "maximum_coordinate_error_mm": 7.389736877971842e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "691",
+      "triangles": 4588,
+      "maximum_coordinate_error_mm": 7.447375327540584e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "692",
+      "triangles": 27500,
+      "maximum_coordinate_error_mm": 1.48828113721855e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "693",
+      "triangles": 16516,
+      "maximum_coordinate_error_mm": 1.4893843547358898e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "694",
+      "triangles": 2912,
+      "maximum_coordinate_error_mm": 1.4883424437339698e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "695",
+      "triangles": 1424,
+      "maximum_coordinate_error_mm": 1.4769029277328372e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "696",
+      "triangles": 5532,
+      "maximum_coordinate_error_mm": 1.4900025713249221e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "697",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4661775016300282e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "698",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4478077316531e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "699",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 1.4821909588569326e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "700",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4338471767188e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "701",
+      "triangles": 47084,
+      "maximum_coordinate_error_mm": 7.447936350990503e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "702",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.450449673873649e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "703",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.440973365246961e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "704",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.443734906242838e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "705",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.445784655502052e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "706",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.427476522714471e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "707",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.441454147327775e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "708",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.441340321712175e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "709",
+      "triangles": 17528,
+      "maximum_coordinate_error_mm": 7.448932054510138e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "710",
+      "triangles": 826,
+      "maximum_coordinate_error_mm": 7.427610332344514e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "711",
+      "triangles": 5396,
+      "maximum_coordinate_error_mm": 7.447870542520718e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "712",
+      "triangles": 412,
+      "maximum_coordinate_error_mm": 7.332566054341072e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "713",
+      "triangles": 22000,
+      "maximum_coordinate_error_mm": 1.4900816192042754e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "714",
+      "triangles": 22946,
+      "maximum_coordinate_error_mm": 1.4867361008974456e-05,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "715",
+      "triangles": 3286,
+      "maximum_coordinate_error_mm": 7.450327382807487e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "716",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4489702739377606e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "717",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.4504000469044485e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    },
+    {
+      "key": "718",
+      "triangles": 1530,
+      "maximum_coordinate_error_mm": 7.444788785448964e-06,
+      "native_tessellation_preserved": true,
+      "decimated": false
+    }
+  ],
+  "scope": "Actual exported 719-part GLB versus native CAD tessellation after registered placement transforms. Exact triangle indices and float32 vertex coordinates checked. Finite unit normals and nonzero surfaces checked. This is mesh fidelity, not all-solid clearance."
+}

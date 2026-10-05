@@ -46,9 +46,6 @@ for r in rows:
     # Remove only zero-area display triangles, never supports or hardware.
     m.update_faces(m.nondegenerate_faces(height=1e-10));m.remove_unreferenced_vertices()
     role_name=role(r)
-    if len(m.faces)>5000 and role_name in ['metal','motor','native']:
-        m=m.simplify_quadric_decimation(face_count=max(1800,int(len(m.faces)*.32)),aggression=3)
-        m.update_faces(m.nondegenerate_faces(height=1e-10));m.remove_unreferenced_vertices()
     assert len(m.faces) and np.isfinite(m.vertices).all()
     normals=m.vertex_normals.copy();length=np.linalg.norm(normals,axis=1)
     # Opposed CAD seams can cancel the smoothed normal. Retain the surface
@@ -77,7 +74,7 @@ profile=dict(machine_id='sovol_sv08_350',title='SOVOL SV08 / 350',size=350,sourc
 for name,data in [('assembly_manifest.json',manifest),('machine_profile.json',profile)]:(O/name).write_text(json.dumps(data,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf8')
 files={}
 for name in ['assembly_manifest.json','machine_profile.json','model.glb.gz']:
-    b=(O/name).read_bytes();spec=dict(path='sv08/'+name,bytes=len(b),sha256=hashlib.sha256(b).hexdigest())
+    b=(O/name).read_bytes();spec=dict(path=O.name+'/'+name,bytes=len(b),sha256=hashlib.sha256(b).hexdigest())
     if name.endswith('.gz'):spec.update(encoding='gzip',decoded_bytes=len(raw),decoded_sha256=hashlib.sha256(raw).hexdigest())
     files['model.glb'if name.endswith('.gz')else name]=spec
 (O/'INDEX.json').write_text(json.dumps(dict(machine_id='sovol_sv08_350',parts=len(parts),files=files),indent=2)+'\n')
