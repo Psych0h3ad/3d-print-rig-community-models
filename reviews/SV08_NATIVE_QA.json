@@ -1,0 +1,194 @@
+{
+  "all_passed": true,
+  "machine_id": "sovol_sv08_350",
+  "source_sha256": "7ebc42e3e041e4c1b5d1a64cef25a5ef002bda2fd187854e01443f0cc29be0e5",
+  "native_leaves": 719,
+  "native_invalid_leaves": [
+    "355",
+    "581"
+  ],
+  "z_seat_mates": [
+    {
+      "plate": "76",
+      "mount": "355",
+      "keys": [
+        "76",
+        "77",
+        "97",
+        "108",
+        "109",
+        "110",
+        "111",
+        "116",
+        "117"
+      ],
+      "translation_y_mm": -12.01164520201985,
+      "coaxial_mounting_axes_xz": [
+        [
+          157.7346,
+          354.7417,
+          1.75
+        ],
+        [
+          185.2346,
+          354.7417,
+          1.75
+        ]
+      ],
+      "seat_gap_mm": 0.0,
+      "body_intersection_mm3": 0.0,
+      "target_native_shape_valid": false,
+      "solid_clearance_certified": false
+    },
+    {
+      "plate": "155",
+      "mount": "354",
+      "keys": [
+        "155",
+        "143",
+        "164",
+        "170",
+        "171",
+        "172",
+        "173",
+        "176",
+        "177",
+        "196"
+      ],
+      "translation_y_mm": -11.928213732036596,
+      "coaxial_mounting_axes_xz": [
+        [
+          -322.7654,
+          354.7417,
+          1.75
+        ],
+        [
+          -295.2654,
+          354.7417,
+          1.75
+        ]
+      ],
+      "seat_gap_mm": 0.0,
+      "body_intersection_mm3": 0.0,
+      "target_native_shape_valid": true,
+      "solid_clearance_certified": true
+    },
+    {
+      "plate": "214",
+      "mount": "352",
+      "keys": [
+        "214",
+        "215",
+        "235",
+        "240",
+        "241",
+        "258",
+        "262",
+        "264",
+        "265"
+      ],
+      "translation_y_mm": -111.95689356952148,
+      "coaxial_mounting_axes_xz": [
+        [
+          -322.7654,
+          -131.2583,
+          1.75
+        ],
+        [
+          -295.2654,
+          -131.2583,
+          1.75
+        ]
+      ],
+      "seat_gap_mm": 1.4210854715202004e-14,
+      "body_intersection_mm3": 0.0,
+      "target_native_shape_valid": true,
+      "solid_clearance_certified": true
+    },
+    {
+      "plate": "292",
+      "mount": "353",
+      "keys": [
+        "292",
+        "279",
+        "297",
+        "319",
+        "320",
+        "321",
+        "322",
+        "325",
+        "326"
+      ],
+      "translation_y_mm": -12.329825977353167,
+      "coaxial_mounting_axes_xz": [
+        [
+          157.7346,
+          -131.2583,
+          1.75
+        ],
+        [
+          185.2346,
+          -131.2583,
+          1.75
+        ]
+      ],
+      "seat_gap_mm": 4.0194366942304644e-14,
+      "body_intersection_mm3": 0.0,
+      "target_native_shape_valid": true,
+      "solid_clearance_certified": true
+    }
+  ],
+  "duplicate_solids": [
+    {
+      "retained": "30",
+      "reference": "38",
+      "overlap_ratio": 1.0
+    },
+    {
+      "retained": "177",
+      "reference": "196",
+      "overlap_ratio": 1.0
+    },
+    {
+      "retained": "422",
+      "reference": "426",
+      "overlap_ratio": 0.9968945927914378
+    },
+    {
+      "retained": "428",
+      "reference": "432",
+      "overlap_ratio": 0.9984828066336299
+    },
+    {
+      "retained": "429",
+      "reference": "431",
+      "overlap_ratio": 0.9963507960079857
+    },
+    {
+      "retained": "430",
+      "reference": "433",
+      "overlap_ratio": 0.9982623477173732
+    }
+  ],
+  "x_block_reference": {
+    "reference": "375",
+    "retained": "575",
+    "source_overlap_mm3": 4847.003540450761
+  },
+  "nozzle_bed_gap_mm": 8.03146523499418,
+  "nozzle_bed_intersection_mm3": 0.0,
+  "gantry_lift_mm": 10.0,
+  "scope": "Native solid duplication, four Z plate seats and mounting axes, nozzle/bed clearance. Original rigid shapes retained; source invalid tensioner 355 is not certified. Other original threaded contacts, full swept fit, XY belt routing and motion are not certified. Static assembly only. Two partial source routes are optional references; no complete route is fabricated.",
+  "partial_routes": {
+    "578": {
+      "kind": "PTFE",
+      "sampled_native_free_end_gap_mm": 204.306565142,
+      "display": "optional reference"
+    },
+    "625": {
+      "kind": "wire",
+      "sampled_native_free_end_gap_mm": 157.703771218,
+      "display": "optional reference"
+    }
+  }
+}
