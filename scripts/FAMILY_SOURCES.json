@@ -1,0 +1,50 @@
+{
+  "aether": {
+    "repository": "antithesisengineering/Antithesis-Aether-MK1.1",
+    "revision": "24e67a9495d2a73dfad09fb21bfe443abc917f71",
+    "path": "CAD/Antithesis Aether MK1.1.step",
+    "download_sha256": "8faefbd4a30fb52eb8f989ee69dd72d68c80cec5ae8999d805ded70ba3cf4eda",
+    "sha256": "8faefbd4a30fb52eb8f989ee69dd72d68c80cec5ae8999d805ded70ba3cf4eda",
+    "native_bytes": 43642109
+  },
+  "vminion": {
+    "repository": "Rat-Rig/V-Minion",
+    "revision": "6811558082d6a1797dac160ca027692cd7904a4b",
+    "path": "https://a360.co/3rPymJS",
+    "share_version": 7,
+    "sha256": "46650c0be0527b0f799a6ebd5cde210254caafdc4c436f558857fa30c17e9b94",
+    "native_bytes": 84318861
+  },
+  "snake180": {
+    "repository": "SnakeOilXY/SnakeOil-XY",
+    "revision": "a98641cf6d199b7557ccc511e57664eac0d34243",
+    "path": "CAD/v1-180-assembly-snakeoilxy-180.step.zip",
+    "download_sha256": "189956b6080f06ca711220a7964015970eb9e712d41c09b14428485db1f08b21",
+    "sha256": "3ee271884b8d6230c2e2c983c6dc283dfba8764e3926b1fe9fa56b39516fba1d",
+    "native_bytes": 318437485
+  },
+  "snakeidex": {
+    "repository": "SnakeOilXY/SnakeOil-XY",
+    "revision": "a98641cf6d199b7557ccc511e57664eac0d34243",
+    "path": "CAD/v1-IDEX-assembly.step.zip",
+    "download_sha256": "3ac3db306e1c6a3e7fc2980c0870ba3159c7d2bac89459d2a94ed3b27feb8c87",
+    "sha256": "616e8c233f4320f516a22a7a681de1bf5bb4aeb9ce81bdb856d1bb92540d8df6",
+    "native_bytes": 170915704
+  },
+  "snake3s": {
+    "repository": "SnakeOilXY/SnakeOilXY-3S",
+    "revision": "61cfb4c0849c8e4b9cef75ea0cc445192cc0fa59",
+    "path": "src/STEP/v1.step.zip",
+    "download_sha256": "2861202c4027d2619b231ba3d7229a744e2bde28ad06c34efb62a3642d35805b",
+    "sha256": "433728ccffc3af65962826e0e224b087a861754f86c6c43479e1fb87430d7ee2",
+    "native_bytes": 131333289
+  },
+  "proosa": {
+    "repository": "SnakeOilXY/ProosaXY",
+    "revision": "c43b9e46b5127aa138ef4561ba0d22329837d0df",
+    "path": "src/MAIN-ASSEMBLY.step.zip",
+    "download_sha256": "fd75d0c01dd2757c54af0adcc4e79e49cce0c92cf2081526f06228691a582659",
+    "sha256": "10ce4e1df4e9cf626568293277e0e7d00194fe9782d3952415fbd5f7e36428cf",
+    "native_bytes": 47050105
+  }
+}

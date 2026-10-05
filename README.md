@@ -1,11 +1,13 @@
 # Community printer models for 3D Print Rig
 
-Native whole-machine CAD display assets for Mercury One.1 (Ender-5 and Ender-5 Plus), VzBot 330 printed AWD v1.2, original Creality Ender-3, and SIBOOR S-BOOM January 2026.
+Native complete-machine display assemblies for Antithesis Aether MK1.1, Rat Rig V-Minion 1.0, SnakeOil XY 180 and IDEX, SnakeOil XY-3S / KP3S, ProosaXY, Mercury One.1, VzBot 330 printed AWD, original Ender-3, and SIBOOR S-BOOM.
 
-[Open the viewer](https://psych0h3ad.github.io/3d-print-rig/viewer/community.html?machine=mercury_one1_235).
+[Open 3D Print Rig](https://psych0h3ad.github.io/3d-print-rig/viewer/community.html?machine=antithesis_aether_mk11).
 
-Each machine retains its original terms. Mercury One.1: ZeroG, CC BY-NC-SA 4.0. VzBot: VzBot Team, CC BY-NC 4.0. Ender-3: Creality, GPL-3.0. S-BOOM: SIBOOR / Lzhikai, GPL-3.0. See [source pins, original editable assemblies and changes](site/NOTICE.txt) and the individual [licenses](licenses).
+See the exact source revisions, original editable assemblies, changes, and component credits in [NOTICE](site/NOTICE.txt) and [licenses](licenses). CAD assets keep their original terms: GPL, Creative Commons, and component-specific Annex terms. No STEP downloads are generated from viewer combinations.
 
-Meshes are display derivatives. The original editable assemblies are linked at their exact revisions in the notice and manifests. No STEP downloads are generated from viewer combinations. Axis offsets are relative to the author's CAD pose. Flexible paths are illustrative; motor control, homing contacts, belt tension and chain-link mechanics are not simulated.
+Author placements are retained. The controls preview offsets from each source CAD pose; they do not run firmware, homing, or mechanical belt/chain simulations. Missing source belts and wires are identified in the viewer. Reference geometry includes author calibration aids, duplicate instances and alternatives; it is optional.
 
-Build: `python scripts/build_site.py --output _site`. The builder verifies all compressed checksums. Source and decoded hashes are recorded in `site/ASSET_INDEX.json`.
+Build the checked distribution: `python scripts/build_site.py --output _site`.
+
+For the six newly added machines, extract the author's linked native STEP with `python scripts/extract_native_step.py source.step input/<machine-key>`; put the matching `source.json` record from `scripts/FAMILY_SOURCES.json` beside the inventory; then run `python scripts/convert_family.py input site <machine-key>` and `python scripts/correct_materials.py input site`. Machine keys: `aether`, `vminion`, `snake180`, `snakeidex`, `snake3s`, `proosa`. Original preferred editing sources remain available at the pinned upstream repositories and the official V-Minion share. Mesh conversion requires Python, CadQuery/OCP, NumPy, trimesh and fast-simplification.
