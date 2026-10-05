@@ -227,3 +227,37 @@ These are custom derived assemblies, not official standard kits. The low models 
 
 Original source repositories, revisions, attribution and component notices are in SOURCES.json and the included licenses. Modified geometry retains its upstream terms. Stock Stealthburner / CW2 / Revo is assembled; custom-size mods and complete full-travel interference are not certified. This archive is editable model source, not a standard STEP download.
 
+
+Requested community assemblies v81
+Squirrelbrain — 2.1 / 040124 / file 2024-01-06
+Source: https://www.printables.com/model/416884-tictac-21
+Source STEP SHA256: 7876d80933b515e45ffaed01d828d8c26edf401de11c952350ea5fea2604f024
+License: CC-BY-NC-SA-4.0 (original machine geometry).
+
+Display conversion: native tessellation without decimation, normalized surface normals, material roles and transparency. Optional source references: 1419, 1489, 1497, 1498. No built-in supports were removed. Native source topology findings retained as display meshes: 1202, 1419. This is a static whole CAD assembly reference. Motion, mod swapping and full physical fastening/swept-clearance certification are not offered.
+
+Rolohaun Design / Kanrog — MK2 beta / file 2026-03-21
+Source: https://www.printables.com/model/1644597-rook-mk2
+Source STEP SHA256: 93d1c61f8ef0d7c3e2c5383873de5c1082f919c970a616715e7ba1abb410bae2
+License: CC-BY-NC-4.0 (original machine geometry).
+
+Display conversion: native tessellation without decimation, normalized surface normals, material roles and transparency. Optional source references: . No built-in supports were removed. Native source topology findings retained as display meshes: 371. This is a static whole CAD assembly reference. Motion, mod swapping and full physical fastening/swept-clearance certification are not offered.
+
+Galileo 2 G2SA: JaredC01/Galileo2 at 98f8a37944d7277cd37231776400553cc402219f, GPL-3.0. Geometry is distributed independently as g2sa.glb.gz; the original Rook geometry retains CC-BY-NC-4.0. Two 43.5 mm bore axes and the planar mounting seat were measured for display registration. The source Rook CAD omits both foot mounting screws and their clamping receivers; no substitute hardware was invented. Source: https://github.com/JaredC01/Galileo2/blob/98f8a37944d7277cd37231776400553cc402219f/galileo2_standalone/CAD/G2_Standalone_And_Bowden.step
+
+Matt The Printing Nerd / MSzturc — v1.1
+Source: https://github.com/MSzturc/the100/tree/7f51196334e94e337d0a842e6374835164d6f9c0
+Source STEP SHA256: a95606f005cbc59f1a0ae744184df9143e96b6296a571127b67686b035ba65c2
+License: CC-BY-NC-SA-4.0 (original machine geometry).
+
+Display conversion: native tessellation without decimation, normalized surface normals, material roles and transparency. Optional source references: 275. No built-in supports were removed. Native source topology findings retained as display meshes: . This is a static whole CAD assembly reference. Motion, mod swapping and full physical fastening/swept-clearance certification are not offered.
+
+The source contains no belt geometry or complete Bowden tube. The overlapping lower CHC mount is an optional reference.
+
+Squirrelbrain — v1.0 / 171223 / file 2023-12-18
+Source: https://www.printables.com/model/487266-satsuma-180-v10
+Source STEP SHA256: b816ef0b5d7c9f86b119a77c9ab14d4bcec418513e6601ca0232f5ff3e38b38d
+License: GPL-3.0 (original machine geometry).
+
+Display conversion: native tessellation without decimation, normalized surface normals, material roles and transparency. Optional source references: . No built-in supports were removed. Native source topology findings retained as display meshes: 90, 252. This is a static whole CAD assembly reference. Motion, mod swapping and full physical fastening/swept-clearance certification are not offered.
+

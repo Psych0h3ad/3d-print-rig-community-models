@@ -1,0 +1,946 @@
+{
+  "display_location_passed": true,
+  "workers": 3,
+  "results": [
+    {
+      "key": "tictac",
+      "source_sha256": "7876d80933b515e45ffaed01d828d8c26edf401de11c952350ea5fea2604f024",
+      "model_sha256": "73755c5b4f0cdd134554c68d9b37102348af2d71c2e9a31e761c492856939f9b",
+      "native_nut_distances": [
+        {
+          "key": "2",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "3",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "44",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "45",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "46",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "47",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "48",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "49",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "50",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "51",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "54",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "55",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "56",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "60",
+          "name": "SQ_NUT_M5X7.9X2.6MM",
+          "near_body": "52",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "62",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "63",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "64",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "65",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "66",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "67",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "71",
+          "name": "SQ_NUT_M5X7.9X2.6MM",
+          "near_body": "68",
+          "native_distance_mm": 0.04999999999968452
+        },
+        {
+          "key": "72",
+          "name": "2020 T-nut M5",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "78",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "79",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "80",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "81",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "100",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "101",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "102",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "223",
+          "name": "M3X5.4X1.6MM_SQ_NUT",
+          "near_body": "146",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "224",
+          "name": "M3X5.4X1.6MM_SQ_NUT",
+          "near_body": "146",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "225",
+          "name": "SQ_NUT_M5X7.9X2.6MM",
+          "near_body": "125",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "237",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "238",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "239",
+          "name": "2020 T-nut M5",
+          "near_body": "139",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "240",
+          "name": "2020 T-nut M5",
+          "near_body": "139",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "241",
+          "name": "2020 T-nut M5",
+          "near_body": "139",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "242",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "243",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1102",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1103",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1104",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1105",
+          "name": "2020 T-nut M5",
+          "near_body": "1",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1171",
+          "name": "SQ_NUT_M5X7.9X2.6MM",
+          "near_body": "1143",
+          "native_distance_mm": 0.04999999996891802
+        },
+        {
+          "key": "1172",
+          "name": "SQ_NUT_M5X7.9X2.6MM",
+          "near_body": "1143",
+          "native_distance_mm": 0.04999999996883275
+        },
+        {
+          "key": "1173",
+          "name": "2020 T-nut M5 (1)",
+          "near_body": "20",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1276",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 8.526512829121202e-14
+        },
+        {
+          "key": "1277",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 5.684341886080802e-14
+        },
+        {
+          "key": "1278",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 7.958078640513122e-13
+        },
+        {
+          "key": "1279",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 9.663381206337363e-13
+        },
+        {
+          "key": "1280",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1281",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 0.06282611072093179
+        },
+        {
+          "key": "1282",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1283",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1284",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1285",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 2.1884716261411086e-12
+        },
+        {
+          "key": "1286",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 1.2221335055073723e-12
+        },
+        {
+          "key": "1287",
+          "name": "2020 T-nut M5",
+          "near_body": "1194",
+          "native_distance_mm": 2.0179413695586845e-12
+        },
+        {
+          "key": "1479",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1480",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1481",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1482",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "1483",
+          "name": "SQ_NUT_M5X7.9X2.6MM",
+          "near_body": "1469",
+          "native_distance_mm": 0.04999999996880433
+        },
+        {
+          "key": "1484",
+          "name": "SQ_NUT_M5X7.9X2.6MM",
+          "near_body": "1469",
+          "native_distance_mm": 0.04999999996778115
+        },
+        {
+          "key": "1493",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.03877764650997051
+        },
+        {
+          "key": "1494",
+          "name": "2020 T-nut M5",
+          "near_body": "21",
+          "native_distance_mm": 0.03877764650997051
+        }
+      ],
+      "findings": [],
+      "source_topology_findings": [
+        {
+          "key": "1202",
+          "name": "Z_CABLE_CHAIN_LOWER_LINK (1)",
+          "optional_reference": false
+        },
+        {
+          "key": "1419",
+          "name": "Z_CABLE_CHAIN_LOWER_LINK (1)",
+          "optional_reference": true
+        }
+      ],
+      "motion_enabled": false,
+      "sampled_poses": 1,
+      "scope": "Actual native source solids and displayed native mesh: nearest-body distances for source T/square nuts, source topology, recorded alternatives. A nearest-body distance is a location screen, not bore alignment, thread engagement or full assembly clearance proof. New models are static assembly references; no motion/changer/gantry combinations are offered."
+    },
+    {
+      "key": "rook",
+      "source_sha256": "93d1c61f8ef0d7c3e2c5383873de5c1082f919c970a616715e7ba1abb410bae2",
+      "model_sha256": "16d278caa466868340ad8c97d91b80d96bfbc2af2d871565ab8d1e3559faf861",
+      "native_nut_distances": [],
+      "findings": [],
+      "source_topology_findings": [
+        {
+          "key": "371",
+          "name": "Carrier",
+          "optional_reference": false
+        }
+      ],
+      "motion_enabled": false,
+      "sampled_poses": 1,
+      "scope": "Actual native source solids and displayed native mesh: nearest-body distances for source T/square nuts, source topology, recorded alternatives. A nearest-body distance is a location screen, not bore alignment, thread engagement or full assembly clearance proof. New models are static assembly references; no motion/changer/gantry combinations are offered."
+    },
+    {
+      "key": "the100",
+      "source_sha256": "a95606f005cbc59f1a0ae744184df9143e96b6296a571127b67686b035ba65c2",
+      "model_sha256": "0a3088eb107137530b22e2b4a9ee41b52d0aff3ebd531e68f35d7c825256f8b5",
+      "native_nut_distances": [],
+      "findings": [],
+      "source_topology_findings": [],
+      "motion_enabled": false,
+      "sampled_poses": 1,
+      "scope": "Actual native source solids and displayed native mesh: nearest-body distances for source T/square nuts, source topology, recorded alternatives. A nearest-body distance is a location screen, not bore alignment, thread engagement or full assembly clearance proof. New models are static assembly references; no motion/changer/gantry combinations are offered."
+    },
+    {
+      "key": "satsuma",
+      "source_sha256": "b816ef0b5d7c9f86b119a77c9ab14d4bcec418513e6601ca0232f5ff3e38b38d",
+      "model_sha256": "8c6a1a7d0118ee2bda8ff2278a60e9150324af9f24be59fee4efbe93007cf952",
+      "native_nut_distances": [
+        {
+          "key": "6",
+          "name": "M5_SQNUT (1)",
+          "near_body": "22",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "7",
+          "name": "M5_SQNUT (1)",
+          "near_body": "22",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "10",
+          "name": "M5_SQNUT (1)",
+          "near_body": "22",
+          "native_distance_mm": 3.475216772130865e-07
+        },
+        {
+          "key": "15",
+          "name": "M5_SQNUT (1)",
+          "near_body": "22",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "16",
+          "name": "M5_SQNUT (1)",
+          "near_body": "22",
+          "native_distance_mm": 0.0005629012057113468
+        },
+        {
+          "key": "17",
+          "name": "M5_SQNUT (1)",
+          "near_body": "22",
+          "native_distance_mm": 0.0005629012057113468
+        },
+        {
+          "key": "29",
+          "name": "M5_SQNUT",
+          "near_body": "35",
+          "native_distance_mm": 7.654098800171159e-13
+        },
+        {
+          "key": "30",
+          "name": "M5_SQNUT",
+          "near_body": "35",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "32",
+          "name": "M5_SQNUT",
+          "near_body": "35",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "47",
+          "name": "M3_SQ_NUT",
+          "near_body": "62",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "48",
+          "name": "M3_SQ_NUT",
+          "near_body": "62",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "56",
+          "name": "M3_SQ_NUT",
+          "near_body": "62",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "57",
+          "name": "M3_SQ_NUT",
+          "near_body": "62",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "63",
+          "name": "M3_SQ_NUT",
+          "near_body": "62",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "64",
+          "name": "M3_SQ_NUT",
+          "near_body": "62",
+          "native_distance_mm": 0.07845038886443945
+        },
+        {
+          "key": "80",
+          "name": "M3_SQ_NUT (1)",
+          "near_body": "90",
+          "native_distance_mm": 6.821210263296962e-13
+        },
+        {
+          "key": "85",
+          "name": "M3_SQ_NUT (2)",
+          "near_body": "90",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "91",
+          "name": "M3_SQ_NUT (1)",
+          "near_body": "84",
+          "native_distance_mm": 1.9895196601282805e-13
+        },
+        {
+          "key": "92",
+          "name": "M3_SQ_NUT",
+          "near_body": "90",
+          "native_distance_mm": 2.842170943040401e-14
+        },
+        {
+          "key": "165",
+          "name": "M5_SQNUT",
+          "near_body": "164",
+          "native_distance_mm": 0.049999427225970984
+        },
+        {
+          "key": "175",
+          "name": "M5_SQNUT",
+          "near_body": "174",
+          "native_distance_mm": 0.04999942722579335
+        },
+        {
+          "key": "185",
+          "name": "M5_SQNUT",
+          "near_body": "184",
+          "native_distance_mm": 0.04999942722588483
+        },
+        {
+          "key": "195",
+          "name": "M5_SQNUT",
+          "near_body": "194",
+          "native_distance_mm": 0.04999942722616905
+        },
+        {
+          "key": "285",
+          "name": "M5_SQ_NUT (2)",
+          "near_body": "253",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "286",
+          "name": "M5_SQ_NUT (3)",
+          "near_body": "253",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "324",
+          "name": "M5_SQ_NUT",
+          "near_body": "289",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "325",
+          "name": "M5_SQ_NUT (1)",
+          "near_body": "289",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "401",
+          "name": "M5_SQ_NUT (6)",
+          "near_body": "403",
+          "native_distance_mm": 5.684341886080801e-13
+        },
+        {
+          "key": "409",
+          "name": "M5_SQ_NUT (6) (1)",
+          "near_body": "405",
+          "native_distance_mm": 1.8189894035458565e-12
+        },
+        {
+          "key": "413",
+          "name": "M5_SQ_NUT (6)",
+          "near_body": "415",
+          "native_distance_mm": 2.0463630789890885e-12
+        },
+        {
+          "key": "419",
+          "name": "M5_SQ_NUT (6)",
+          "near_body": "421",
+          "native_distance_mm": 4.206412995699793e-12
+        },
+        {
+          "key": "549",
+          "name": "M3_SQ_nut",
+          "near_body": "557",
+          "native_distance_mm": 1.6697754290362354e-13
+        },
+        {
+          "key": "551",
+          "name": "M3_SQ_nut",
+          "near_body": "557",
+          "native_distance_mm": 1.1786127629420662e-12
+        },
+        {
+          "key": "561",
+          "name": "M3_SQ_nut",
+          "near_body": "569",
+          "native_distance_mm": 1.7763568394002505e-15
+        },
+        {
+          "key": "563",
+          "name": "M3_SQ_nut",
+          "near_body": "569",
+          "native_distance_mm": 1.049826892085548e-12
+        },
+        {
+          "key": "573",
+          "name": "M3_SQ_nut",
+          "near_body": "581",
+          "native_distance_mm": 1.1368683772161603e-13
+        },
+        {
+          "key": "575",
+          "name": "M3_SQ_nut",
+          "near_body": "581",
+          "native_distance_mm": 1.1937117960769683e-12
+        },
+        {
+          "key": "585",
+          "name": "M3_SQ_nut",
+          "near_body": "593",
+          "native_distance_mm": 1.7053025658242404e-13
+        },
+        {
+          "key": "587",
+          "name": "M3_SQ_nut",
+          "near_body": "593",
+          "native_distance_mm": 1.0800249583553523e-12
+        },
+        {
+          "key": "595",
+          "name": "M3_SQ_nut",
+          "near_body": "602",
+          "native_distance_mm": 0.018804307624455063
+        },
+        {
+          "key": "596",
+          "name": "M3_SQ_nut",
+          "near_body": "602",
+          "native_distance_mm": 0.04999999999432703
+        },
+        {
+          "key": "603",
+          "name": "M3_SQ_nut",
+          "near_body": "610",
+          "native_distance_mm": 0.04999999999705551
+        },
+        {
+          "key": "604",
+          "name": "M3_SQ_nut",
+          "near_body": "610",
+          "native_distance_mm": 0.04999999999432703
+        },
+        {
+          "key": "611",
+          "name": "M3_SQ_nut",
+          "near_body": "618",
+          "native_distance_mm": 0.041125995263371566
+        },
+        {
+          "key": "612",
+          "name": "M3_SQ_nut",
+          "near_body": "618",
+          "native_distance_mm": 0.04999999999512309
+        },
+        {
+          "key": "619",
+          "name": "M3_SQ_nut",
+          "near_body": "626",
+          "native_distance_mm": 0.04291896924291927
+        },
+        {
+          "key": "620",
+          "name": "M3_SQ_nut",
+          "near_body": "626",
+          "native_distance_mm": 0.04999999999523678
+        },
+        {
+          "key": "631",
+          "name": "M5_SQNUT",
+          "near_body": "636",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "632",
+          "name": "M5_SQNUT",
+          "near_body": "636",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "633",
+          "name": "M3_SQNUT",
+          "near_body": "636",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "634",
+          "name": "M3_SQNUT",
+          "near_body": "636",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "641",
+          "name": "M5_SQNUT",
+          "near_body": "645",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "642",
+          "name": "M5_SQNUT",
+          "near_body": "645",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "643",
+          "name": "M3_SQNUT",
+          "near_body": "645",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "644",
+          "name": "M3_SQNUT",
+          "near_body": "645",
+          "native_distance_mm": 2.842170943040401e-14
+        },
+        {
+          "key": "651",
+          "name": "M5_SQNUT(Mirror)",
+          "near_body": "656",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "652",
+          "name": "M5_SQNUT(Mirror) (1)",
+          "near_body": "656",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "653",
+          "name": "M3_SQNUT (2)",
+          "near_body": "656",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "654",
+          "name": "M3_SQNUT (2)",
+          "near_body": "656",
+          "native_distance_mm": 5.684341886080802e-14
+        },
+        {
+          "key": "661",
+          "name": "M3_SQNUT (2)",
+          "near_body": "665",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "662",
+          "name": "M5_SQNUT (3)",
+          "near_body": "665",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "663",
+          "name": "M5_SQNUT (2)",
+          "near_body": "665",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "711",
+          "name": "M3_SQNUT (3)",
+          "near_body": "714",
+          "native_distance_mm": 3.025121486643995e-08
+        },
+        {
+          "key": "712",
+          "name": "M3_SQNUT (1) (1)",
+          "near_body": "714",
+          "native_distance_mm": 3.025121486643995e-08
+        },
+        {
+          "key": "728",
+          "name": "M3_SQNUT (3)",
+          "near_body": "731",
+          "native_distance_mm": 3.0251214866439113e-08
+        },
+        {
+          "key": "729",
+          "name": "M3_SQNUT (1) (1)",
+          "near_body": "731",
+          "native_distance_mm": 3.0251214866439113e-08
+        },
+        {
+          "key": "822",
+          "name": "M5_SQ_NUT (4)",
+          "near_body": "808",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "823",
+          "name": "M5_SQ_NUT (5)",
+          "near_body": "808",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "828",
+          "name": "M5_SQ_NUT (5)",
+          "near_body": "824",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "829",
+          "name": "M5_SQ_NUT (5)",
+          "near_body": "824",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "855",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "836",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "856",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "836",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "861",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "837",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "863",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "837",
+          "native_distance_mm": 0.0
+        },
+        {
+          "key": "869",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "840",
+          "native_distance_mm": 0.04999645319187921
+        },
+        {
+          "key": "873",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "840",
+          "native_distance_mm": 0.04999681654410574
+        },
+        {
+          "key": "874",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "842",
+          "native_distance_mm": 0.04999681654381797
+        },
+        {
+          "key": "879",
+          "name": "M3_SQNUT (1) (2)",
+          "near_body": "842",
+          "native_distance_mm": 0.04999645319169979
+        }
+      ],
+      "findings": [],
+      "source_topology_findings": [
+        {
+          "key": "90",
+          "name": "HOTEND_BEARING_HOUSING",
+          "optional_reference": false
+        },
+        {
+          "key": "252",
+          "name": "3of5_DRIVE_R",
+          "optional_reference": false
+        }
+      ],
+      "motion_enabled": false,
+      "sampled_poses": 1,
+      "scope": "Actual native source solids and displayed native mesh: nearest-body distances for source T/square nuts, source topology, recorded alternatives. A nearest-body distance is a location screen, not bore alignment, thread engagement or full assembly clearance proof. New models are static assembly references; no motion/changer/gantry combinations are offered."
+    }
+  ],
+  "all_native_solids_valid": false,
+  "full_physical_fit_certified": false
+}

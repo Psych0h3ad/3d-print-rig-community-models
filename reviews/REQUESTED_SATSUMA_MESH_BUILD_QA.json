@@ -1,0 +1,6408 @@
+{
+  "all_passed": true,
+  "parts": [
+    {
+      "key": "0",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "1",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "2",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "3",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "4",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "5",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "6",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "7",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "8",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "9",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "10",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "11",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "12",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "13",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "14",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "15",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "16",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "17",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "18",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "19",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "20",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "21",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "22",
+      "native_triangles": 6347,
+      "export_triangles": 6326,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "23",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "24",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "25",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "26",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "27",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "28",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "29",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "30",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "31",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "32",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "33",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "34",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "35",
+      "native_triangles": 3654,
+      "export_triangles": 3642,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "36",
+      "native_triangles": 16136,
+      "export_triangles": 16136,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "37",
+      "native_triangles": 3732,
+      "export_triangles": 3732,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "38",
+      "native_triangles": 6296,
+      "export_triangles": 6296,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "39",
+      "native_triangles": 2180,
+      "export_triangles": 2180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "40",
+      "native_triangles": 7920,
+      "export_triangles": 7920,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "41",
+      "native_triangles": 12350,
+      "export_triangles": 12338,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "42",
+      "native_triangles": 6720,
+      "export_triangles": 6720,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "43",
+      "native_triangles": 7820,
+      "export_triangles": 7820,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "44",
+      "native_triangles": 11532,
+      "export_triangles": 11532,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "45",
+      "native_triangles": 11532,
+      "export_triangles": 11532,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "46",
+      "native_triangles": 8964,
+      "export_triangles": 8954,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "47",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "48",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "49",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "50",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "51",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "52",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "53",
+      "native_triangles": 11532,
+      "export_triangles": 11532,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "54",
+      "native_triangles": 11532,
+      "export_triangles": 11532,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "55",
+      "native_triangles": 2391,
+      "export_triangles": 2390,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "56",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "57",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "58",
+      "native_triangles": 4494,
+      "export_triangles": 4494,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "59",
+      "native_triangles": 4494,
+      "export_triangles": 4494,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "60",
+      "native_triangles": 1856,
+      "export_triangles": 1856,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "61",
+      "native_triangles": 1856,
+      "export_triangles": 1856,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "62",
+      "native_triangles": 8880,
+      "export_triangles": 8880,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "63",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "64",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "65",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "66",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "67",
+      "native_triangles": 9476,
+      "export_triangles": 9476,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "68",
+      "native_triangles": 7798,
+      "export_triangles": 7798,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "69",
+      "native_triangles": 588,
+      "export_triangles": 588,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "70",
+      "native_triangles": 588,
+      "export_triangles": 588,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "71",
+      "native_triangles": 500,
+      "export_triangles": 500,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "72",
+      "native_triangles": 500,
+      "export_triangles": 500,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "73",
+      "native_triangles": 500,
+      "export_triangles": 500,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "74",
+      "native_triangles": 500,
+      "export_triangles": 500,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "75",
+      "native_triangles": 676,
+      "export_triangles": 676,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "76",
+      "native_triangles": 7248,
+      "export_triangles": 7248,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "77",
+      "native_triangles": 2998,
+      "export_triangles": 2998,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "78",
+      "native_triangles": 1468,
+      "export_triangles": 1468,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "79",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "80",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "81",
+      "native_triangles": 4494,
+      "export_triangles": 4494,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "82",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "83",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "84",
+      "native_triangles": 2290,
+      "export_triangles": 2288,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "85",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "86",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "87",
+      "native_triangles": 1921,
+      "export_triangles": 1920,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "88",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "89",
+      "native_triangles": 4494,
+      "export_triangles": 4494,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "90",
+      "native_triangles": 38505,
+      "export_triangles": 38497,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "91",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "92",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "93",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "94",
+      "native_triangles": 1000,
+      "export_triangles": 1000,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "95",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "96",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "97",
+      "native_triangles": 5376,
+      "export_triangles": 5376,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "98",
+      "native_triangles": 1436,
+      "export_triangles": 1436,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "99",
+      "native_triangles": 2760,
+      "export_triangles": 2760,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "100",
+      "native_triangles": 1574,
+      "export_triangles": 1574,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "101",
+      "native_triangles": 1574,
+      "export_triangles": 1574,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "102",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "103",
+      "native_triangles": 15594,
+      "export_triangles": 15592,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "104",
+      "native_triangles": 248,
+      "export_triangles": 248,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "105",
+      "native_triangles": 1180,
+      "export_triangles": 1180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "106",
+      "native_triangles": 6206,
+      "export_triangles": 6204,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "107",
+      "native_triangles": 2486,
+      "export_triangles": 2486,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "108",
+      "native_triangles": 2496,
+      "export_triangles": 2496,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "109",
+      "native_triangles": 12838,
+      "export_triangles": 12838,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "110",
+      "native_triangles": 12838,
+      "export_triangles": 12838,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "111",
+      "native_triangles": 9128,
+      "export_triangles": 9128,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "112",
+      "native_triangles": 9454,
+      "export_triangles": 9454,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "113",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "114",
+      "native_triangles": 19208,
+      "export_triangles": 19208,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "115",
+      "native_triangles": 28,
+      "export_triangles": 28,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "116",
+      "native_triangles": 28,
+      "export_triangles": 28,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "117",
+      "native_triangles": 28,
+      "export_triangles": 28,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "118",
+      "native_triangles": 924,
+      "export_triangles": 924,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "119",
+      "native_triangles": 2824,
+      "export_triangles": 2824,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "120",
+      "native_triangles": 28,
+      "export_triangles": 28,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "121",
+      "native_triangles": 288,
+      "export_triangles": 288,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "122",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "123",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "124",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "125",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "126",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "127",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "128",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "129",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "130",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "131",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "132",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "133",
+      "native_triangles": 3612,
+      "export_triangles": 3612,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "134",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "135",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "136",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "137",
+      "native_triangles": 3612,
+      "export_triangles": 3612,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "138",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "139",
+      "native_triangles": 868,
+      "export_triangles": 866,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "140",
+      "native_triangles": 1888,
+      "export_triangles": 1888,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "141",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "142",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "143",
+      "native_triangles": 5148,
+      "export_triangles": 5148,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "144",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "145",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "146",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "147",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "148",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "149",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "150",
+      "native_triangles": 784,
+      "export_triangles": 784,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "151",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "152",
+      "native_triangles": 5514,
+      "export_triangles": 5514,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "153",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "154",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "155",
+      "native_triangles": 4414,
+      "export_triangles": 4414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "156",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "157",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "158",
+      "native_triangles": 2484,
+      "export_triangles": 2484,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "159",
+      "native_triangles": 4420,
+      "export_triangles": 4420,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "160",
+      "native_triangles": 4414,
+      "export_triangles": 4414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "161",
+      "native_triangles": 2184,
+      "export_triangles": 2184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "162",
+      "native_triangles": 2184,
+      "export_triangles": 2184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "163",
+      "native_triangles": 2604,
+      "export_triangles": 2604,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "164",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "165",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "166",
+      "native_triangles": 1428,
+      "export_triangles": 1428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "167",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "168",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "169",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "170",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "171",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "172",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "173",
+      "native_triangles": 2604,
+      "export_triangles": 2604,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "174",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "175",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "176",
+      "native_triangles": 1428,
+      "export_triangles": 1428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "177",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "178",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "179",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "180",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "181",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "182",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "183",
+      "native_triangles": 2604,
+      "export_triangles": 2604,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "184",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "185",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "186",
+      "native_triangles": 1428,
+      "export_triangles": 1428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "187",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "188",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "189",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "190",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "191",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "192",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "193",
+      "native_triangles": 2604,
+      "export_triangles": 2604,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "194",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "195",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "196",
+      "native_triangles": 1428,
+      "export_triangles": 1428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "197",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "198",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "199",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "200",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "201",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "202",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "203",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "204",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "205",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "206",
+      "native_triangles": 1872,
+      "export_triangles": 1872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "207",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "208",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "209",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "210",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "211",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "212",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "213",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "214",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "215",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "216",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "217",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "218",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "219",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "220",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "221",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "222",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "223",
+      "native_triangles": 4428,
+      "export_triangles": 4428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "224",
+      "native_triangles": 4860,
+      "export_triangles": 4860,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "225",
+      "native_triangles": 4920,
+      "export_triangles": 4920,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "226",
+      "native_triangles": 4368,
+      "export_triangles": 4368,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "227",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "228",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "229",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "230",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "231",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "232",
+      "native_triangles": 1922,
+      "export_triangles": 1922,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "233",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "234",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "235",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "236",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "237",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "238",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "239",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "240",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "241",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "242",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "243",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "244",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "245",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "246",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "247",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "248",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "249",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "250",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "251",
+      "native_triangles": 6084,
+      "export_triangles": 6084,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "252",
+      "native_triangles": 5514,
+      "export_triangles": 5514,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "253",
+      "native_triangles": 3998,
+      "export_triangles": 3998,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "254",
+      "native_triangles": 6760,
+      "export_triangles": 6748,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "255",
+      "native_triangles": 672,
+      "export_triangles": 672,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "256",
+      "native_triangles": 4958,
+      "export_triangles": 4958,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "257",
+      "native_triangles": 42184,
+      "export_triangles": 42184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "258",
+      "native_triangles": 6172,
+      "export_triangles": 6172,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "259",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "260",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "261",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "262",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "263",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "264",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "265",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "266",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "267",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "268",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "269",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "270",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "271",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "272",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "273",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "274",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "275",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "276",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "277",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "278",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "279",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "280",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "281",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "282",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "283",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "284",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "285",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "286",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "287",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "288",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "289",
+      "native_triangles": 3972,
+      "export_triangles": 3972,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "290",
+      "native_triangles": 5282,
+      "export_triangles": 5282,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "291",
+      "native_triangles": 6195,
+      "export_triangles": 6194,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "292",
+      "native_triangles": 6718,
+      "export_triangles": 6718,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "293",
+      "native_triangles": 672,
+      "export_triangles": 672,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "294",
+      "native_triangles": 4958,
+      "export_triangles": 4958,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "295",
+      "native_triangles": 42184,
+      "export_triangles": 42184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "296",
+      "native_triangles": 6172,
+      "export_triangles": 6172,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "297",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "298",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "299",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "300",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "301",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "302",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "303",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "304",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "305",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "306",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "307",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "308",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "309",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "310",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "311",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "312",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "313",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "314",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "315",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "316",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "317",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "318",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "319",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "320",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "321",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "322",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "323",
+      "native_triangles": 2414,
+      "export_triangles": 2414,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "324",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "325",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "326",
+      "native_triangles": 188,
+      "export_triangles": 188,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "327",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "328",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "329",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "330",
+      "native_triangles": 1950,
+      "export_triangles": 1949,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "331",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "332",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "333",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "334",
+      "native_triangles": 1950,
+      "export_triangles": 1949,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "335",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "336",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "337",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "338",
+      "native_triangles": 1950,
+      "export_triangles": 1949,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "339",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "340",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "341",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "342",
+      "native_triangles": 1950,
+      "export_triangles": 1949,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "343",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "344",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "345",
+      "native_triangles": 1248,
+      "export_triangles": 1246,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "346",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "347",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "348",
+      "native_triangles": 1248,
+      "export_triangles": 1247,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "349",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "350",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "351",
+      "native_triangles": 1248,
+      "export_triangles": 1247,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "352",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "353",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "354",
+      "native_triangles": 1248,
+      "export_triangles": 1247,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "355",
+      "native_triangles": 284,
+      "export_triangles": 284,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "356",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "357",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "358",
+      "native_triangles": 1180,
+      "export_triangles": 1180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "359",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "360",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "361",
+      "native_triangles": 2636,
+      "export_triangles": 2624,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "362",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "363",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "364",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "365",
+      "native_triangles": 1180,
+      "export_triangles": 1180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "366",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "367",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "368",
+      "native_triangles": 2522,
+      "export_triangles": 2522,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "369",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "370",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "371",
+      "native_triangles": 2164,
+      "export_triangles": 2164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "372",
+      "native_triangles": 2700,
+      "export_triangles": 2700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "373",
+      "native_triangles": 188,
+      "export_triangles": 188,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "374",
+      "native_triangles": 188,
+      "export_triangles": 188,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "375",
+      "native_triangles": 1190,
+      "export_triangles": 1190,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "376",
+      "native_triangles": 1290,
+      "export_triangles": 1290,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "377",
+      "native_triangles": 2196,
+      "export_triangles": 2196,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "378",
+      "native_triangles": 2196,
+      "export_triangles": 2196,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "379",
+      "native_triangles": 15652,
+      "export_triangles": 15652,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "380",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "381",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "382",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "383",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "384",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "385",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "386",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "387",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "388",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "389",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "390",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "391",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "392",
+      "native_triangles": 1202,
+      "export_triangles": 1202,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "393",
+      "native_triangles": 1202,
+      "export_triangles": 1202,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "394",
+      "native_triangles": 1582,
+      "export_triangles": 1582,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "395",
+      "native_triangles": 1582,
+      "export_triangles": 1582,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "396",
+      "native_triangles": 16592,
+      "export_triangles": 16592,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "397",
+      "native_triangles": 16592,
+      "export_triangles": 16592,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "398",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "399",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "400",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "401",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "402",
+      "native_triangles": 584,
+      "export_triangles": 584,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "403",
+      "native_triangles": 1190,
+      "export_triangles": 1190,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "404",
+      "native_triangles": 1920,
+      "export_triangles": 1920,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "405",
+      "native_triangles": 1190,
+      "export_triangles": 1190,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "406",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "407",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "408",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "409",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "410",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "411",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "412",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "413",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "414",
+      "native_triangles": 584,
+      "export_triangles": 584,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "415",
+      "native_triangles": 1190,
+      "export_triangles": 1190,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "416",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "417",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "418",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "419",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "420",
+      "native_triangles": 584,
+      "export_triangles": 584,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "421",
+      "native_triangles": 1190,
+      "export_triangles": 1190,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "422",
+      "native_triangles": 376,
+      "export_triangles": 376,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "423",
+      "native_triangles": 6814,
+      "export_triangles": 6792,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "424",
+      "native_triangles": 4820,
+      "export_triangles": 4820,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "425",
+      "native_triangles": 3292,
+      "export_triangles": 3292,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "426",
+      "native_triangles": 11716,
+      "export_triangles": 11716,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "427",
+      "native_triangles": 11716,
+      "export_triangles": 11716,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "428",
+      "native_triangles": 4062,
+      "export_triangles": 4062,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "429",
+      "native_triangles": 3292,
+      "export_triangles": 3292,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "430",
+      "native_triangles": 4740,
+      "export_triangles": 4740,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "431",
+      "native_triangles": 5630,
+      "export_triangles": 5630,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "432",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "433",
+      "native_triangles": 13456,
+      "export_triangles": 13448,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "434",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "435",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "436",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "437",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "438",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "439",
+      "native_triangles": 944,
+      "export_triangles": 944,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "440",
+      "native_triangles": 724,
+      "export_triangles": 724,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "441",
+      "native_triangles": 61849,
+      "export_triangles": 61844,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "442",
+      "native_triangles": 1488,
+      "export_triangles": 1488,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "443",
+      "native_triangles": 2068,
+      "export_triangles": 2066,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "444",
+      "native_triangles": 3776,
+      "export_triangles": 3776,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "445",
+      "native_triangles": 3812,
+      "export_triangles": 3812,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "446",
+      "native_triangles": 2824,
+      "export_triangles": 2824,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "447",
+      "native_triangles": 1762,
+      "export_triangles": 1762,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "448",
+      "native_triangles": 7380,
+      "export_triangles": 7380,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "449",
+      "native_triangles": 2708,
+      "export_triangles": 2708,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "450",
+      "native_triangles": 2684,
+      "export_triangles": 2684,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "451",
+      "native_triangles": 2500,
+      "export_triangles": 2500,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "452",
+      "native_triangles": 2502,
+      "export_triangles": 2502,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "453",
+      "native_triangles": 3528,
+      "export_triangles": 3528,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "454",
+      "native_triangles": 3528,
+      "export_triangles": 3528,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "455",
+      "native_triangles": 3528,
+      "export_triangles": 3528,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "456",
+      "native_triangles": 1042,
+      "export_triangles": 1042,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "457",
+      "native_triangles": 1042,
+      "export_triangles": 1042,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "458",
+      "native_triangles": 954,
+      "export_triangles": 954,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "459",
+      "native_triangles": 946,
+      "export_triangles": 946,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "460",
+      "native_triangles": 4828,
+      "export_triangles": 4828,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "461",
+      "native_triangles": 4738,
+      "export_triangles": 4738,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "462",
+      "native_triangles": 6820,
+      "export_triangles": 6820,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "463",
+      "native_triangles": 6392,
+      "export_triangles": 6392,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "464",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "465",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "466",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "467",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "468",
+      "native_triangles": 1904,
+      "export_triangles": 1904,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "469",
+      "native_triangles": 6822,
+      "export_triangles": 6822,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "470",
+      "native_triangles": 6392,
+      "export_triangles": 6392,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "471",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "472",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "473",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "474",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "475",
+      "native_triangles": 1904,
+      "export_triangles": 1904,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "476",
+      "native_triangles": 6823,
+      "export_triangles": 6823,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "477",
+      "native_triangles": 6392,
+      "export_triangles": 6392,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "478",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "479",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "480",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "481",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "482",
+      "native_triangles": 1904,
+      "export_triangles": 1904,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "483",
+      "native_triangles": 6820,
+      "export_triangles": 6820,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "484",
+      "native_triangles": 6392,
+      "export_triangles": 6392,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "485",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "486",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "487",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "488",
+      "native_triangles": 2632,
+      "export_triangles": 2632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "489",
+      "native_triangles": 1904,
+      "export_triangles": 1904,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "490",
+      "native_triangles": 1176,
+      "export_triangles": 1176,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "491",
+      "native_triangles": 1056,
+      "export_triangles": 1056,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "492",
+      "native_triangles": 4164,
+      "export_triangles": 4164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "493",
+      "native_triangles": 3088,
+      "export_triangles": 3086,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "494",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "495",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "496",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "497",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "498",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "499",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "500",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "501",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "502",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "503",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "504",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "505",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "506",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "507",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "508",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "509",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "510",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "511",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "512",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "513",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "514",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "515",
+      "native_triangles": 180,
+      "export_triangles": 180,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "516",
+      "native_triangles": 640,
+      "export_triangles": 640,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "517",
+      "native_triangles": 640,
+      "export_triangles": 640,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "518",
+      "native_triangles": 640,
+      "export_triangles": 640,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "519",
+      "native_triangles": 640,
+      "export_triangles": 640,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "520",
+      "native_triangles": 220,
+      "export_triangles": 220,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "521",
+      "native_triangles": 220,
+      "export_triangles": 220,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "522",
+      "native_triangles": 76,
+      "export_triangles": 76,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "523",
+      "native_triangles": 148,
+      "export_triangles": 148,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "524",
+      "native_triangles": 148,
+      "export_triangles": 148,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "525",
+      "native_triangles": 148,
+      "export_triangles": 148,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "526",
+      "native_triangles": 9370,
+      "export_triangles": 9370,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "527",
+      "native_triangles": 2902,
+      "export_triangles": 2902,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "528",
+      "native_triangles": 220,
+      "export_triangles": 220,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "529",
+      "native_triangles": 292,
+      "export_triangles": 292,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "530",
+      "native_triangles": 6136,
+      "export_triangles": 6136,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "531",
+      "native_triangles": 4800,
+      "export_triangles": 4800,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "532",
+      "native_triangles": 264,
+      "export_triangles": 264,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "533",
+      "native_triangles": 264,
+      "export_triangles": 264,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "534",
+      "native_triangles": 264,
+      "export_triangles": 264,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "535",
+      "native_triangles": 264,
+      "export_triangles": 264,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "536",
+      "native_triangles": 264,
+      "export_triangles": 264,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "537",
+      "native_triangles": 264,
+      "export_triangles": 264,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "538",
+      "native_triangles": 264,
+      "export_triangles": 264,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "539",
+      "native_triangles": 236,
+      "export_triangles": 236,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "540",
+      "native_triangles": 236,
+      "export_triangles": 236,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "541",
+      "native_triangles": 236,
+      "export_triangles": 236,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "542",
+      "native_triangles": 236,
+      "export_triangles": 236,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "543",
+      "native_triangles": 236,
+      "export_triangles": 236,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "544",
+      "native_triangles": 236,
+      "export_triangles": 236,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "545",
+      "native_triangles": 7252,
+      "export_triangles": 7252,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "546",
+      "native_triangles": 1728,
+      "export_triangles": 1728,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "547",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "548",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "549",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "550",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "551",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "552",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "553",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "554",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "555",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "556",
+      "native_triangles": 852,
+      "export_triangles": 852,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "557",
+      "native_triangles": 1112,
+      "export_triangles": 1112,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "558",
+      "native_triangles": 1710,
+      "export_triangles": 1710,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "559",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "560",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "561",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "562",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "563",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "564",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "565",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "566",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "567",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "568",
+      "native_triangles": 852,
+      "export_triangles": 852,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "569",
+      "native_triangles": 1112,
+      "export_triangles": 1112,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "570",
+      "native_triangles": 1710,
+      "export_triangles": 1710,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "571",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "572",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "573",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "574",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "575",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "576",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "577",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "578",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "579",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "580",
+      "native_triangles": 852,
+      "export_triangles": 852,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "581",
+      "native_triangles": 1112,
+      "export_triangles": 1112,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "582",
+      "native_triangles": 1710,
+      "export_triangles": 1710,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "583",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "584",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "585",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "586",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "587",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "588",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "589",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "590",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "591",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "592",
+      "native_triangles": 852,
+      "export_triangles": 852,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "593",
+      "native_triangles": 1112,
+      "export_triangles": 1112,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "594",
+      "native_triangles": 1710,
+      "export_triangles": 1710,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "595",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "596",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "597",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "598",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "599",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "600",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "601",
+      "native_triangles": 664,
+      "export_triangles": 664,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "602",
+      "native_triangles": 1572,
+      "export_triangles": 1572,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "603",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "604",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "605",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "606",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "607",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "608",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "609",
+      "native_triangles": 664,
+      "export_triangles": 664,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "610",
+      "native_triangles": 1572,
+      "export_triangles": 1572,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "611",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "612",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "613",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "614",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "615",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "616",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "617",
+      "native_triangles": 664,
+      "export_triangles": 664,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "618",
+      "native_triangles": 1572,
+      "export_triangles": 1572,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "619",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "620",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "621",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "622",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "623",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "624",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "625",
+      "native_triangles": 664,
+      "export_triangles": 664,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "626",
+      "native_triangles": 1572,
+      "export_triangles": 1572,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "627",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "628",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "629",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "630",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "631",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "632",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "633",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "634",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "635",
+      "native_triangles": 1724,
+      "export_triangles": 1724,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "636",
+      "native_triangles": 1596,
+      "export_triangles": 1596,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "637",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "638",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "639",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "640",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "641",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "642",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "643",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "644",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "645",
+      "native_triangles": 1596,
+      "export_triangles": 1596,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "646",
+      "native_triangles": 1724,
+      "export_triangles": 1724,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "647",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "648",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "649",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "650",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "651",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "652",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "653",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "654",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "655",
+      "native_triangles": 1736,
+      "export_triangles": 1736,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "656",
+      "native_triangles": 1608,
+      "export_triangles": 1608,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "657",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "658",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "659",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "660",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "661",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "662",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "663",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "664",
+      "native_triangles": 1736,
+      "export_triangles": 1736,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "665",
+      "native_triangles": 1608,
+      "export_triangles": 1608,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "666",
+      "native_triangles": 115480,
+      "export_triangles": 115480,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "667",
+      "native_triangles": 115480,
+      "export_triangles": 115480,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "668",
+      "native_triangles": 9030,
+      "export_triangles": 9030,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "669",
+      "native_triangles": 578,
+      "export_triangles": 578,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "670",
+      "native_triangles": 578,
+      "export_triangles": 578,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "671",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "672",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "673",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "674",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "675",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "676",
+      "native_triangles": 2426,
+      "export_triangles": 2426,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "677",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "678",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "679",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "680",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "681",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "682",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "683",
+      "native_triangles": 578,
+      "export_triangles": 578,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "684",
+      "native_triangles": 9030,
+      "export_triangles": 9030,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "685",
+      "native_triangles": 578,
+      "export_triangles": 578,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "686",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "687",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "688",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "689",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "690",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "691",
+      "native_triangles": 2426,
+      "export_triangles": 2426,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "692",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "693",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "694",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "695",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "696",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "697",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "698",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "699",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "700",
+      "native_triangles": 5752,
+      "export_triangles": 5752,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "701",
+      "native_triangles": 3318,
+      "export_triangles": 3318,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "702",
+      "native_triangles": 3318,
+      "export_triangles": 3318,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "703",
+      "native_triangles": 3318,
+      "export_triangles": 3318,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "704",
+      "native_triangles": 2478,
+      "export_triangles": 2478,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "705",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "706",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "707",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "708",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "709",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "710",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "711",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "712",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "713",
+      "native_triangles": 1156,
+      "export_triangles": 1156,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "714",
+      "native_triangles": 2284,
+      "export_triangles": 2284,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "715",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "716",
+      "native_triangles": 332,
+      "export_triangles": 332,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "717",
+      "native_triangles": 5752,
+      "export_triangles": 5752,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "718",
+      "native_triangles": 3318,
+      "export_triangles": 3318,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "719",
+      "native_triangles": 3318,
+      "export_triangles": 3318,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "720",
+      "native_triangles": 3318,
+      "export_triangles": 3318,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "721",
+      "native_triangles": 2478,
+      "export_triangles": 2478,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "722",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "723",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "724",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "725",
+      "native_triangles": 1700,
+      "export_triangles": 1700,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "726",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "727",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "728",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "729",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "730",
+      "native_triangles": 1156,
+      "export_triangles": 1156,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "731",
+      "native_triangles": 2284,
+      "export_triangles": 2284,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "732",
+      "native_triangles": 1864,
+      "export_triangles": 1864,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "733",
+      "native_triangles": 1986,
+      "export_triangles": 1986,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "734",
+      "native_triangles": 2034,
+      "export_triangles": 2034,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "735",
+      "native_triangles": 2034,
+      "export_triangles": 2034,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "736",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "737",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "738",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "739",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "740",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "741",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "742",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "743",
+      "native_triangles": 428,
+      "export_triangles": 428,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "744",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "745",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "746",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "747",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "748",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "749",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "750",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "751",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "752",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "753",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "754",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "755",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "756",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "757",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "758",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "759",
+      "native_triangles": 336,
+      "export_triangles": 336,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "760",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "761",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "762",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "763",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "764",
+      "native_triangles": 1632,
+      "export_triangles": 1632,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "765",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "766",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "767",
+      "native_triangles": 2484,
+      "export_triangles": 2484,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "768",
+      "native_triangles": 4356,
+      "export_triangles": 4356,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "769",
+      "native_triangles": 8568,
+      "export_triangles": 8568,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "770",
+      "native_triangles": 612,
+      "export_triangles": 612,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "771",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "772",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "773",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "774",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "775",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "776",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "777",
+      "native_triangles": 3844,
+      "export_triangles": 3844,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "778",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "779",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "780",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "781",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "782",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "783",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "784",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "785",
+      "native_triangles": 3844,
+      "export_triangles": 3844,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "786",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "787",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "788",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "789",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "790",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "791",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "792",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "793",
+      "native_triangles": 3844,
+      "export_triangles": 3844,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "794",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "795",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "796",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "797",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "798",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "799",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "800",
+      "native_triangles": 9548,
+      "export_triangles": 9526,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "801",
+      "native_triangles": 3844,
+      "export_triangles": 3844,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "802",
+      "native_triangles": 3444,
+      "export_triangles": 3444,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "803",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "804",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "805",
+      "native_triangles": 478,
+      "export_triangles": 478,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "806",
+      "native_triangles": 844,
+      "export_triangles": 844,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "807",
+      "native_triangles": 970,
+      "export_triangles": 970,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "808",
+      "native_triangles": 512,
+      "export_triangles": 512,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "809",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "810",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "811",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "812",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "813",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "814",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "815",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "816",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "817",
+      "native_triangles": 1008,
+      "export_triangles": 1008,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "818",
+      "native_triangles": 1008,
+      "export_triangles": 1008,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "819",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "820",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "821",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "822",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "823",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "824",
+      "native_triangles": 516,
+      "export_triangles": 516,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "825",
+      "native_triangles": 848,
+      "export_triangles": 848,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "826",
+      "native_triangles": 1120,
+      "export_triangles": 1120,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "827",
+      "native_triangles": 478,
+      "export_triangles": 478,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "828",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "829",
+      "native_triangles": 184,
+      "export_triangles": 184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "830",
+      "native_triangles": 484,
+      "export_triangles": 484,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "831",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "832",
+      "native_triangles": 484,
+      "export_triangles": 484,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "833",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "834",
+      "native_triangles": 164,
+      "export_triangles": 164,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "835",
+      "native_triangles": 1184,
+      "export_triangles": 1184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "836",
+      "native_triangles": 1018,
+      "export_triangles": 1018,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "837",
+      "native_triangles": 1018,
+      "export_triangles": 1018,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "838",
+      "native_triangles": 1190,
+      "export_triangles": 1190,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "839",
+      "native_triangles": 1026,
+      "export_triangles": 1026,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "840",
+      "native_triangles": 1868,
+      "export_triangles": 1868,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "841",
+      "native_triangles": 1022,
+      "export_triangles": 1022,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "842",
+      "native_triangles": 1884,
+      "export_triangles": 1884,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "843",
+      "native_triangles": 2184,
+      "export_triangles": 2184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "844",
+      "native_triangles": 2184,
+      "export_triangles": 2184,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "845",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "846",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "847",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "848",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "849",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "850",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "851",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "852",
+      "native_triangles": 2016,
+      "export_triangles": 2016,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "853",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "854",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "855",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "856",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "857",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "858",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "859",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "860",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "861",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "862",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "863",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "864",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "865",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "866",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "867",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "868",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "869",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "870",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "871",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "872",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "873",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "874",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "875",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "876",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "877",
+      "native_triangles": 504,
+      "export_triangles": 504,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "878",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "879",
+      "native_triangles": 384,
+      "export_triangles": 384,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "880",
+      "native_triangles": 722,
+      "export_triangles": 722,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "881",
+      "native_triangles": 878,
+      "export_triangles": 878,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "882",
+      "native_triangles": 3170,
+      "export_triangles": 3169,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "883",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "884",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "885",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "886",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "887",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "888",
+      "native_triangles": 5824,
+      "export_triangles": 5824,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "889",
+      "native_triangles": 1998,
+      "export_triangles": 1998,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "890",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "891",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "892",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "893",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "894",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "895",
+      "native_triangles": 2000,
+      "export_triangles": 2000,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "896",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "897",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "898",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "899",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "900",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "901",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "902",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "903",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "904",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "905",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "906",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "907",
+      "native_triangles": 872,
+      "export_triangles": 872,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "908",
+      "native_triangles": 5900,
+      "export_triangles": 5900,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "909",
+      "native_triangles": 1000,
+      "export_triangles": 1000,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "910",
+      "native_triangles": 404,
+      "export_triangles": 404,
+      "decimated": false,
+      "normals_finite": true
+    },
+    {
+      "key": "911",
+      "native_triangles": 43667,
+      "export_triangles": 43667,
+      "decimated": false,
+      "normals_finite": true
+    }
+  ],
+  "native_repairs": [
+    {
+      "key": "90",
+      "before_valid": false,
+      "after_valid": false,
+      "relative_volume_change": 0.0,
+      "max_bounds_change_mm": 5.684341886080802e-14,
+      "applied": false
+    },
+    {
+      "key": "252",
+      "before_valid": false,
+      "after_valid": false,
+      "relative_volume_change": 0.0,
+      "max_bounds_change_mm": 1.1368683772161603e-13,
+      "applied": false
+    }
+  ],
+  "scope": "Full native tessellation; no decimation. Unit normals and degenerate triangle removal; native solid validity is recorded separately."
+}

@@ -1,5 +1,13 @@
 # Community printer models for 3D Print Rig
 
+TicTac 2.1 (040124), THE 100 v1.1, Rook MK2 beta (2026-03-21) and Satsuma 180
+v1.0 (171223) are whole native CAD references under `site/requested-v1`.
+They support display colors, camera views and image export. Movement and mod
+swapping are not offered. Versions, source omissions and license scopes are in
+`licenses/requested-*`; portable conversion and G2SA registration recipes are
+in [`scripts/requested`](scripts/requested). Galileo 2 is a separate geometry
+asset under its original GPL-3.0 license.
+
 Custom VORON dimension references are also included: V2.4 500 × 500 × 480 and 350 × 350 × 165 mm; Trident 500 × 500 × 250 and 350 × 350 × 125 mm. Stock SB / CW2 / Revo assemblies, native rigid hardware, source revisions and model-specific changes are pinned under `site/custom-voron-v1`. These are derived references, not official kits. Editable native solids, selected inspection evidence and original licenses are in the [custom source release](https://github.com/Psych0h3ad/3d-print-rig-community-models/releases/tag/custom-voron-v1).
 
 Native complete-machine display assemblies for Antithesis Aether MK1.1, Rat Rig V-Minion 1.0, SnakeOil XY 180 and IDEX, SnakeOil XY-3S / KP3S, ProosaXY, Mercury One.1, VzBot 330 printed AWD, original Ender-3, SIBOOR S-BOOM, and LH Stinger 1.0 with its 200 mm carbon bed.
