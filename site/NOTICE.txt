@@ -287,3 +287,10 @@ https://github.com/lhndo/LH-Stinger/tree/4fb1e2eb917bfe78ae29cbde5a3793a80c02cc8
 Native purchased geometry retains dimensions; only rigid placement is changed. Native nut body/insert are fused without a volume change.
 
 The archive includes editable native BREP solids and source/placement metadata. Licenses apply to the respective components; no single license is asserted for all upstream CAD.
+
+Ender-3 Belted Z and KlackEnder viewer installations
+
+KevinAkaSam: GPL-3.0. Original editable source is available at the pinned upstream revisions listed in assembly.json and the machine profile. The archive includes the modified printed native solids; purchased component geometry is retained from those upstream sources, with rigid registrations recorded in assembly.json. The invalid 625 cages use the same native purchased 625 geometry from the original Creality Ender-3 source.
+Belted Z: single motor, V-wheels, left Bowden extruder, F623 idlers and relocated PSU.
+KlackEnder: attached probe, moving gantry dock, fixed retainer; no automatic docking, calibration or firmware homing.
+Printed mating seats are adapted for this viewer CAD. Manufacturing tolerances, printed strength, belt tension and physical installation are not certified. Source switch terminal/magnet electrical contact is retained. The native Creality model omits the Bowden tube.
