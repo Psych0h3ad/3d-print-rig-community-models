@@ -1,5 +1,5 @@
 {
-  "version": "native-community-siboor-trident-300-85",
+  "version": "native-community-hydra-86",
   "files": {
     "ender3_stock_220/assembly_manifest.json": {
       "path": "ender3/assembly_manifest.json",
@@ -526,6 +526,19 @@
       "path": "siboor-trident-300/R2_ENDSTOP_REGISTRATION.json",
       "bytes": 5964,
       "sha256": "a03b335fa0a10606586ac6fcb5c592e7823167425d4a95c36804e7ea1d31d27b"
+    },
+    "hydra_ender3_parts/parts.json": {
+      "path": "hydra/parts.json",
+      "bytes": 17121,
+      "sha256": "886d1cd89caaa2a05ffdb9b14cbf76972e32f2da65fd6e25ccb4503a0d60dec7"
+    },
+    "hydra_ender3_parts/model.glb": {
+      "path": "hydra/model.glb.gz",
+      "bytes": 4055440,
+      "sha256": "647ae5d724356afd2d1186e5456b3347b78a89d7bdd0399d8cd10f4638944c76",
+      "encoding": "gzip",
+      "decoded_bytes": 16527400,
+      "decoded_sha256": "6ec11d1dd4aa55a64bfb2e6319437a0560ede146782e809695665b4752218f60"
     }
   }
 }

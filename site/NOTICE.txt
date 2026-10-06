@@ -263,3 +263,7 @@ Display conversion: native tessellation without decimation, normalized surface n
 
 
 SIBOOR Trident JUNE CNC AWD 300: native size assembly with reviewed rigid hardware placements. Source CAD SHA-256 0c8eeb356bd3809dee9c0909d182262b714048eaa98bad1da90d33c0d5b1f88e; kit documentation https://github.com/Lzhikai/SIBOOR-Voron-Trident-June at 2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3 (documentation reference, not the origin of the acquired CAD). Kit CAD redistribution terms are not confirmed. Component attribution follows the main viewer source catalog. Eight surplus rail screw occurrences are omitted; original fixing positions are retained. Reference flexible routes do not certify wiring bend limits or physical fit of all combinations.
+
+HYDRA by boothyboothy / Boothy: https://www.printables.com/model/169197-hydra-fan-duct-tool-change-system-for-ender-3-ende
+Printables files 2022-04-13; base STEP 2021-08-04; tool plate STEP v1. CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Seventeen individual native STEP parts, centered and tessellated for inspection. Five 0.2 mm sacrificial nut-hole membranes are removed; 0.0001 mm radial cleanup allowance. No installed assembly, hotend, extruder, fan, probe or hardware is certified. Application licensing does not relicense this CAD. Source filenames and SHA256 are recorded in hydra/parts.json.
