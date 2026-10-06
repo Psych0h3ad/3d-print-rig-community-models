@@ -900,18 +900,18 @@
     {
       "key": "00037",
       "name": "X belt",
-      "group": "beam",
+      "group": "ender_x_belt",
       "appearance_role": "rubber",
       "native_bounds_mm": [
         [
-          -197.6955972197508,
-          167.96937234043037,
-          33.84999999999785
+          -197.69559721975085,
+          166.83893174416033,
+          33.84999999999781
         ],
         [
-          204.09784335780355,
-          199.0938794726748,
-          39.84999999999793
+          204.09784335780358,
+          199.09387947267493,
+          39.84999999999791
         ]
       ],
       "source_valid": true,
@@ -919,7 +919,9 @@
         0,
         0,
         0
-      ]
+      ],
+      "source_derivation": "Native fixed arcs/return and cut tails; straight sections reconnected to measured Eplate slots.",
+      "source_brep_sha256": "f394aa9bf03e394a1592bf66548e4f8986093ef35d84525c255c80982b95d372"
     },
     {
       "key": "00038",
@@ -972,50 +974,134 @@
     {
       "key": "00040",
       "name": "Copper cover",
-      "group": "beam",
+      "group": "head",
       "appearance_role": "native",
       "native_bounds_mm": [
         [
-          3.068651813441848,
-          168.94912202107193,
-          31.48643306532506
+          -35.94593936094429,
+          167.838931744161,
+          31.486433065325016
         ],
         [
-          11.096751937251266,
-          174.98664035408234,
-          39.48643306532506
+          -27.94593936094428,
+          173.838931744161,
+          39.486433065325016
         ]
       ],
       "source_valid": true,
       "native_adjustment_mm": [
-        0,
-        0,
+        -39.04273544213672,
+        -1.1289825513717062,
         0
-      ]
+      ],
+      "source_derivation": "Rigid rotation and translation only; original purchased copper shape retained, cap aligned to measured Eplate retaining plane.",
+      "source_brep_sha256": "e1f06c278f6a33103d153c8c0423fcdc4812a1b29c7992f0c39a5adfb155c615",
+      "native_rigid_registration": {
+        "rotation_axis": "native Z",
+        "rotation_degrees": -0.26918049374086783,
+        "rotation_pivot_mm": [
+          7.096796081192449,
+          168.9679142955327,
+          35.486433065325016
+        ],
+        "translation_after_rotation_mm": [
+          -39.04273544213672,
+          -1.1289825513717062,
+          0
+        ],
+        "source_to_registered_matrix_mm": [
+          [
+            0.9999889640147468,
+            0.0046980686152405205,
+            0.0,
+            -39.83647997713431
+          ],
+          [
+            -0.0046980686152405205,
+            0.9999889640147468,
+            0.0,
+            -1.093776589023463
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
     },
     {
       "key": "00041",
       "name": "Copper cover",
-      "group": "beam",
+      "group": "head",
       "appearance_role": "native",
       "native_bounds_mm": [
         [
-          45.68555872959337,
-          169.14934138355173,
-          31.486433065325087
+          6.672132765364514,
+          167.838931744161,
+          31.486433065325066
         ],
         [
-          53.71365885340281,
-          175.18685971656214,
-          39.48643306532509
+          14.672132765364523,
+          173.838931744161,
+          39.486433065325066
         ]
       ],
       "source_valid": true,
       "native_adjustment_mm": [
-        0,
-        0,
+        -39.04157023197895,
+        -1.3292019138514775,
         0
-      ]
+      ],
+      "source_derivation": "Rigid rotation and translation only; original purchased copper shape retained, cap aligned to measured Eplate retaining plane.",
+      "source_brep_sha256": "ba43081e443159e37caa037f6f269cffe50cacbe8a761a41f4084e50f1897a41",
+      "native_rigid_registration": {
+        "rotation_axis": "native Z",
+        "rotation_degrees": -0.2691804937410672,
+        "rotation_pivot_mm": [
+          49.71370299734348,
+          169.1681336580125,
+          35.48643306532506
+        ],
+        "translation_after_rotation_mm": [
+          -39.04157023197895,
+          -1.3292019138514775,
+          0
+        ],
+        "source_to_registered_matrix_mm": [
+          [
+            0.9999889640147468,
+            0.0046980686152439995,
+            0.0,
+            -39.8357850917239
+          ],
+          [
+            -0.0046980686152439995,
+            0.9999889640147468,
+            0.0,
+            -1.0937765890237472
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
     },
     {
       "key": "00042",
@@ -14497,7 +14583,7 @@
       ]
     }
   ],
-  "triangles": 2028904,
+  "triangles": 2031396,
   "native_leaf_count": 520,
   "reference_leaves": [],
   "invalid_reference_leaves": [],
@@ -16514,5 +16600,8 @@
         }
       ]
     }
+  ],
+  "notices": [
+    "Original Ender X belt: native pulley arcs, return and cut tails are retained. Tails and rigid purchased copper crimps follow the carriage through measured Eplate slots; only straight rubber sections are reconnected. This is a 6 mm wide source-derived preview envelope. The source has no teeth; GT2 tooth engagement, belt tension and manufacturing fit are not verified. The retained source return/arcs have unresolved pulley, bearing and roller intersections. This preview does not certify whole-printer clearance."
   ]
 }

@@ -61,6 +61,11 @@
       0,
       0,
       "y"
+    ],
+    "ender_x_belt": [
+      0,
+      "z",
+      0
     ]
   },
   "palette_defaults": {
@@ -1691,5 +1696,36 @@
         "label": "KlackEnder · attached probe"
       }
     }
+  },
+  "original_ender_x_belt": {
+    "schema": 1,
+    "part_key": "00037",
+    "crimp_keys": [
+      "00040",
+      "00041"
+    ],
+    "geometry_attribute": "_head_x_weight",
+    "group": "ender_x_belt",
+    "native_width_mm": 6,
+    "source_has_teeth": false,
+    "source_brep_sha256": {
+      "00037": "f394aa9bf03e394a1592bf66548e4f8986093ef35d84525c255c80982b95d372",
+      "00040": "e1f06c278f6a33103d153c8c0423fcdc4812a1b29c7992f0c39a5adfb155c615",
+      "00041": "ba43081e443159e37caa037f6f269cffe50cacbe8a761a41f4084e50f1897a41",
+      "00123": "e8f6ad039a202a6a08f6c1194cffed6dd70580251da8581cafd667093c48fe2c"
+    },
+    "components": [
+      "fixed-return-pulleys",
+      "left-cut-tail",
+      "left-straight-extension",
+      "left-native-bend",
+      "left-front-span",
+      "right-cut-tail",
+      "right-straight-extension",
+      "right-native-bend",
+      "right-front-span"
+    ],
+    "preview_only": true,
+    "notice": "Original Ender X belt: native pulley arcs, return and cut tails are retained. Tails and rigid purchased copper crimps follow the carriage through measured Eplate slots; only straight rubber sections are reconnected. This is a 6 mm wide source-derived preview envelope. The source has no teeth; GT2 tooth engagement, belt tension and manufacturing fit are not verified. The retained source return/arcs have unresolved pulley, bearing and roller intersections. This preview does not certify whole-printer clearance."
   }
 }
