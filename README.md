@@ -12,6 +12,8 @@ Custom VORON dimension references are also included: V2.4 500 × 500 × 480 and 
 
 Native complete-machine display assemblies for Antithesis Aether MK1.1, Rat Rig V-Minion 1.0, SnakeOil XY 180 and IDEX, SnakeOil XY-3S / KP3S, ProosaXY, Mercury One.1, VzBot 330 printed AWD, original Ender-3, SIBOOR S-BOOM, and LH Stinger 1.0 with its 200 mm carbon bed.
 
+The two custom Trident variants have a PTFE correction in `site/custom-voron-v2`; the original v1 URLs remain available. The tube now rises above the rear toolhead chain mount and ends inside the actual holder bore through a straight insertion section. Each v2 directory includes the replacement `ptfe.brep`. Reproduce it with `python scripts/repair_custom_ptfe.py <custom-voron-v1-native-directory>` using the original native source archive. [Native inspection](reviews/CUSTOM_PTFE_NATIVE_QA.json) covers bore registration and exact static tube/part intersections. Flexible motion is a route preview with variable length, without full swept-clearance or bend-radius certification. Original VORON/component licenses continue to apply.
+
 [Open 3D Print Rig](https://psych0h3ad.github.io/3d-print-rig/viewer/community.html?machine=antithesis_aether_mk11).
 
 See the exact source revisions, original editable assemblies, changes, and component credits in [NOTICE](site/NOTICE.txt) and [licenses](licenses). CAD assets keep their original terms: GPL, Creative Commons, and component-specific Annex terms. No STEP downloads are generated from viewer combinations.
