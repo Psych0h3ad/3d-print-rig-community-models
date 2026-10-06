@@ -1,1 +1,141 @@
-{"machine_id":"ender3_stock_220","title":"Ender-3","size":220,"source":{"repository":"https://github.com/Creality3DPrinting/Ender-3","revision":"88c7758cea9d0d00a54fdb238bedb3b33425f409","version":"Original Ender-3","path":"Ender-3 Mechanical/STP/01 MAIN ASM Ender_3.STEP","license":"GPL-3.0","source_step_sha256":"6a1e54e484ccf3a157bb6f38b7f262a8b62bfdb21f19880538d6790c88ac5230"},"origin_mm":[0,0,0],"basis":[[1,0,0],[0,1,0],[0,0,1]],"axes":{"x":[-100,100],"y":[-100,100],"z":[-50,190]},"motions":{"head":["x","z",0],"beam":[0,"z",0],"bed":[0,0,"y"]},"palette_defaults":{"base":"#24272c","accent":"#e32636","frame":"#25292c"}}
+{
+  "machine_id": "ender3_stock_220",
+  "title": "Ender-3",
+  "size": 220,
+  "source": {
+    "repository": "https://github.com/Creality3DPrinting/Ender-3",
+    "revision": "88c7758cea9d0d00a54fdb238bedb3b33425f409",
+    "version": "Original Ender-3",
+    "path": "Ender-3 Mechanical/STP/01 MAIN ASM Ender_3.STEP",
+    "license": "GPL-3.0",
+    "source_step_sha256": "6a1e54e484ccf3a157bb6f38b7f262a8b62bfdb21f19880538d6790c88ac5230"
+  },
+  "origin_mm": [
+    0,
+    0,
+    0
+  ],
+  "basis": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "axes": {
+    "x": [
+      -100,
+      100
+    ],
+    "y": [
+      -100,
+      100
+    ],
+    "z": [
+      -50,
+      190
+    ]
+  },
+  "motions": {
+    "head": [
+      "x",
+      "z",
+      0
+    ],
+    "beam": [
+      0,
+      "z",
+      0
+    ],
+    "bed": [
+      0,
+      0,
+      "y"
+    ]
+  },
+  "palette_defaults": {
+    "base": "#24272c",
+    "accent": "#e32636",
+    "frame": "#25292c"
+  },
+  "configurations": {
+    "stock": {
+      "label": "Stock · Bowden / original cooling",
+      "hidden_keys": [
+        "hydra_base_rear",
+        "hydra_base_side",
+        "hydra_duct_lh",
+        "hydra_duct_rh",
+        "hydra_plate_bowden",
+        "hydra_cable_clip",
+        "hydra_hotend_fan",
+        "hydra_part_fan_lh",
+        "hydra_part_fan_rh",
+        "hydra_plate_screw_0",
+        "hydra_plate_nut_0",
+        "hydra_plate_screw_1",
+        "hydra_plate_nut_1",
+        "hydra_plate_screw_2",
+        "hydra_plate_nut_2",
+        "hydra_plate_screw_3",
+        "hydra_plate_nut_3",
+        "hydra_plate_screw_4",
+        "hydra_plate_nut_4",
+        "hydra_fan_screw_0",
+        "hydra_fan_screw_1",
+        "hydra_fan_screw_2",
+        "hydra_fan_screw_3",
+        "hydra_carriage_screw_0",
+        "hydra_carriage_screw_1",
+        "hydra_duct_nut_0",
+        "hydra_duct_nut_1",
+        "hydra_duct_nut_2",
+        "hydra_duct_nut_3",
+        "hydra_duct_screw_0",
+        "hydra_duct_screw_1",
+        "hydra_duct_screw_2",
+        "hydra_duct_screw_3",
+        "hydra_base_connector_screw",
+        "hydra_base_connector_nut",
+        "hydra_part_fan_screw_lh",
+        "hydra_part_fan_screw_rh"
+      ]
+    },
+    "hydra_bowden_4010": {
+      "label": "HYDRA · Bowden / dual 4010",
+      "hidden_keys": [
+        "00124",
+        "00125",
+        "00126",
+        "00127",
+        "00161",
+        "00162",
+        "00163",
+        "00164",
+        "00165",
+        "00166",
+        "00167",
+        "00168",
+        "00169",
+        "00170"
+      ],
+      "notice": "Stock Bowden hotend and dual 4010 cooling. Five built-in supports removed; bases and ducts adapted to these CAD mating features. Viewer fit does not validate print strength or manufacturing tolerances.",
+      "source": {
+        "author": "boothyboothy / Boothy",
+        "url": "https://www.printables.com/model/169197-hydra-fan-duct-tool-change-system-for-ender-3-ende",
+        "version": "Base STEP 2021-08-04; Bowden plate v1; narrow 4010 v1",
+        "license": "CC BY-NC-SA 4.0"
+      }
+    }
+  }
+}

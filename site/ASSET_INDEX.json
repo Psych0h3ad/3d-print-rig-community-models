@@ -1,15 +1,15 @@
 {
-  "version": "native-community-hydra-86",
+  "version": "ender3-hydra-install-90",
   "files": {
     "ender3_stock_220/assembly_manifest.json": {
       "path": "ender3/assembly_manifest.json",
-      "bytes": 81654,
-      "sha256": "23f0f8f643ee2642c1255fd863c53a60d90a37ec7be591b97a4c93d21e937077"
+      "bytes": 227296,
+      "sha256": "62374539c3e54b3926a5f22f87fe0b358f4fa457b4b12b67edb0926d6db0dcc0"
     },
     "ender3_stock_220/machine_profile.json": {
       "path": "ender3/machine_profile.json",
-      "bytes": 630,
-      "sha256": "2ecdcdcb8d99bba6e70c317deea48fec079c7e4e74f2cf3e48af878f9e9a206b"
+      "bytes": 3258,
+      "sha256": "7b7a482dcad54c8a61d729759e16d7b71ba98df497f683942b537d779ac40276"
     },
     "ender3_stock_220/model.glb": {
       "path": "ender3/model.glb.gz",
@@ -539,6 +539,19 @@
       "encoding": "gzip",
       "decoded_bytes": 16527396,
       "decoded_sha256": "bbb923ac9fca2e0aa8b069595a704da6f8fa856bcbb051c071644efe175b29a3"
+    },
+    "ender3_stock_220/hydra.glb": {
+      "path": "ender3/hydra.glb.gz",
+      "bytes": 4785075,
+      "sha256": "30b3f39632af32a67442f941d63df8396c1a6a1852309ae57c3ce10b6236f6bb",
+      "encoding": "gzip",
+      "decoded_bytes": 19831660,
+      "decoded_sha256": "de87f4b215bab8e5d3b86a2036dd999f44a6c4be7bd207955958c230211b93fa"
+    },
+    "ender3_stock_220/hydra-native-source.zip": {
+      "path": "ender3/hydra-native-source.zip",
+      "bytes": 3265700,
+      "sha256": "5879cac5e62149f6ae373d08a785ddf93283d63e26b30da83b41415a0d09e1a8"
     }
   }
 }

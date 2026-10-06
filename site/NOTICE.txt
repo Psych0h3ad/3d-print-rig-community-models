@@ -267,3 +267,23 @@ SIBOOR Trident JUNE CNC AWD 300: native size assembly with reviewed rigid hardwa
 HYDRA by boothyboothy / Boothy: https://www.printables.com/model/169197-hydra-fan-duct-tool-change-system-for-ender-3-ende
 Printables files 2022-04-13; base STEP 2021-08-04; tool plate STEP v1. CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
 Seventeen individual native STEP parts, centered and tessellated for inspection. Five 0.2 mm sacrificial nut-hole membranes are removed; 0.0001 mm radial cleanup allowance. No installed assembly, hotend, extruder, fan, probe or hardware is certified. Application licensing does not relicense this CAD. Source filenames and SHA256 are recorded in hydra/parts.json.
+
+HYDRA Ender-3 viewer installation
+
+HYDRA printed designs: boothyboothy / Boothy, CC BY-NC-SA 4.0.
+https://www.printables.com/model/169197-hydra-fan-duct-tool-change-system-for-ender-3-ende
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Base STEP 2021-08-04; Bowden plate v1; narrow ducts v1, downloaded files 2022-04-13.
+Five built-in nut membranes removed. Lower lips, fan pilot axes and duct mating bosses adapted; see assembly.json for native source and modified hashes.
+This adapted viewer installation is not a print-strength or tolerance validation.
+
+Creality purchased components: GPL-3.0, original Ender-3 CAD.
+https://github.com/Creality3DPrinting/Ender-3/tree/88c7758cea9d0d00a54fdb238bedb3b33425f409
+SIBOOR M3 purchased fasteners: native kit geometry; explicit redistribution terms were not supplied with the source CAD.
+https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/tree/2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3
+Source kit STEP SHA256: 0c8eeb356bd3809dee9c0909d182262b714048eaa98bad1da90d33c0d5b1f88e
+LH Stinger M2.5x8 purchased fasteners: CC BY-NC-SA 4.0.
+https://github.com/lhndo/LH-Stinger/tree/4fb1e2eb917bfe78ae29cbde5a3793a80c02cc80
+Native purchased geometry retains dimensions; only rigid placement is changed. Native nut body/insert are fused without a volume change.
+
+The archive includes editable native BREP solids and source/placement metadata. Licenses apply to the respective components; no single license is asserted for all upstream CAD.
