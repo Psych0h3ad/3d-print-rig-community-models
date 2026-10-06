@@ -1,5 +1,5 @@
 {
-  "version": "native-community-custom-ptfe-v2",
+  "version": "native-community-siboor-trident-300-85",
   "files": {
     "ender3_stock_220/assembly_manifest.json": {
       "path": "ender3/assembly_manifest.json",
@@ -485,6 +485,47 @@
       "path": "custom-voron-v2/voron_trident_350_half_z/ptfe.brep",
       "bytes": 141231,
       "sha256": "475e455d0124dc07f3119c14ce739dc8bee486bed3c40e7920983b8962f5279d"
+    },
+    "siboor_trident_300/assembly_manifest.json": {
+      "path": "siboor-trident-300/assembly_manifest.json",
+      "bytes": 1010679,
+      "sha256": "519def1433c254b8685af09d18b013723164deb5a32704e1f9e2fcb8e7027afb"
+    },
+    "siboor_trident_300/flexible_routes.json": {
+      "path": "siboor-trident-300/flexible_routes.json",
+      "bytes": 2081,
+      "sha256": "887d6fc66c523422ed9d1299e8e296bd86de0c12a184097fc897b0779a2380e4"
+    },
+    "siboor_trident_300/model.glb": {
+      "path": "siboor-trident-300/model.glb.gz",
+      "bytes": 62211637,
+      "sha256": "204ade40da178faad23ed06f86fcfce555a0867ec4e7a2bc5a2e4a984000c297",
+      "encoding": "gzip",
+      "decoded_bytes": 218444124,
+      "decoded_sha256": "ca956d3d7b27526e8f21b7d8cbbc5783ce461b6ae450f9609a6f5847cc814672"
+    },
+    "siboor_trident_300/endstops.glb": {
+      "path": "siboor-trident-300/endstops.glb.gz",
+      "bytes": 33765,
+      "sha256": "a55224ec5edcd69bd672868791135fa0ebbce5ea663c173806dcfb19ca4f7626",
+      "encoding": "gzip",
+      "decoded_bytes": 127888,
+      "decoded_sha256": "e9c00d4e04a02fde0550bc61ba34166e28d88c99af4935e62796b3377a5a828e"
+    },
+    "siboor_trident_300/COLOR_OPTIONS.json": {
+      "path": "siboor-trident-300/COLOR_OPTIONS.json",
+      "bytes": 2708,
+      "sha256": "af06f0a05abf5a817850e775b91838d9c7649b01ee9b49b7f3b872e08c45f709"
+    },
+    "siboor_trident_300/configurations.json": {
+      "path": "siboor-trident-300/configurations.json",
+      "bytes": 4595061,
+      "sha256": "d1cd49d6d69c1e7f32429b9c58ba157a7a50881660e8e43fbecaf51d7507b288"
+    },
+    "siboor_trident_300/R2_ENDSTOP_REGISTRATION.json": {
+      "path": "siboor-trident-300/R2_ENDSTOP_REGISTRATION.json",
+      "bytes": 5964,
+      "sha256": "a03b335fa0a10606586ac6fcb5c592e7823167425d4a95c36804e7ea1d31d27b"
     }
   }
 }

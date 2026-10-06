@@ -261,3 +261,5 @@ License: GPL-3.0 (original machine geometry).
 
 Display conversion: native tessellation without decimation, normalized surface normals, material roles and transparency. Optional source references: . No built-in supports were removed. Native source topology findings retained as display meshes: 90, 252. This is a static whole CAD assembly reference. Motion, mod swapping and full physical fastening/swept-clearance certification are not offered.
 
+
+SIBOOR Trident JUNE CNC AWD 300: native size assembly with reviewed rigid hardware placements. Source CAD SHA-256 0c8eeb356bd3809dee9c0909d182262b714048eaa98bad1da90d33c0d5b1f88e; kit documentation https://github.com/Lzhikai/SIBOOR-Voron-Trident-June at 2dccffff009af5eb511ff6a6bbbdd8a3e8ec5ef3 (documentation reference, not the origin of the acquired CAD). Kit CAD redistribution terms are not confirmed. Component attribution follows the main viewer source catalog. Eight surplus rail screw occurrences are omitted; original fixing positions are retained. Reference flexible routes do not certify wiring bend limits or physical fit of all combinations.
