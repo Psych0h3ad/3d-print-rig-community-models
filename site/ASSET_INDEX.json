@@ -565,6 +565,47 @@
       "path": "ender3/mods-native-source.zip",
       "bytes": 2073527,
       "sha256": "97b4dc701669d7e7f0d3c60201f821eb4f2f2012f1c7757f8beaf4be559eca8b"
+    },
+    "custom-voron-v3/voron_v24_500_custom/model.glb.gz": {
+      "path": "custom-voron-v3/voron_v24_500_custom/model.glb.gz",
+      "bytes": 24788208,
+      "sha256": "e27c4c83bb6e025e59be16c9611dfa92221ff5a2a955787074a510fce4598fef",
+      "encoding": "gzip",
+      "decoded_bytes": 79291548,
+      "decoded_sha256": "c7563ea6125ae18e7ac559459478056e5da43725072dee8e5db7e64708717daa"
+    },
+    "custom-voron-v3/voron_v24_500_custom/assembly_manifest.json": {
+      "path": "custom-voron-v3/voron_v24_500_custom/assembly_manifest.json",
+      "bytes": 1525419,
+      "sha256": "d73efb485a37dbceb4077cdd3c10b0b3527bceb108614c58d7add302eec4db8e"
+    },
+    "custom-voron-v3/voron_v24_500_custom/machine_profile.json": {
+      "path": "custom-voron-v3/voron_v24_500_custom/machine_profile.json",
+      "bytes": 4009,
+      "sha256": "83f51af3d6c35b2a6ee2356dee823ee1f64256e56b68880fb9528fe57d3e114c"
+    },
+    "custom-voron-v3/voron_v24_350_half_z/model.glb.gz": {
+      "path": "custom-voron-v3/voron_v24_350_half_z/model.glb.gz",
+      "bytes": 23948077,
+      "sha256": "61e58c8fbcffbc2a6678b9566c8e37069f61d54225da35ec0624b736740ec049",
+      "encoding": "gzip",
+      "decoded_bytes": 75948940,
+      "decoded_sha256": "b6622e56f991fdf68b58ea8c2b51c157fc48eb5f3e01b05e953ed7e2ab3df298"
+    },
+    "custom-voron-v3/voron_v24_350_half_z/assembly_manifest.json": {
+      "path": "custom-voron-v3/voron_v24_350_half_z/assembly_manifest.json",
+      "bytes": 1421309,
+      "sha256": "2f5d780359c2c7cd6934f2196ad089e155edd48a22a7cbe84b0a6b154aec4924"
+    },
+    "custom-voron-v3/voron_v24_350_half_z/machine_profile.json": {
+      "path": "custom-voron-v3/voron_v24_350_half_z/machine_profile.json",
+      "bytes": 4009,
+      "sha256": "a3bf4bf1e78ac47a193b2c9edaa211443d6a068d77a095699a00e12645dd0df3"
+    },
+    "custom-voron-v3/SOURCES.json": {
+      "path": "custom-voron-v3/SOURCES.json",
+      "bytes": 7736,
+      "sha256": "9a11ad4ccb2a88ca280ed948593d81f85144a363ea1eed5d2b3b6234755ddd43"
     }
   }
 }
