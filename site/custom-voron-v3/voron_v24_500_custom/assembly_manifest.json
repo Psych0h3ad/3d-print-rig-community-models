@@ -57663,7 +57663,7 @@
       "motion": "fixed",
       "motion_axes": [],
       "appearance_role": null,
-      "method": "native_panel_sections_interfaces_preserved",
+      "method": "native_source_sections_preserve_central_front_cutout",
       "source": {
         "repository": "VoronDesign/Voron-2",
         "commit": "a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
@@ -57684,7 +57684,7 @@
         "Panel:1"
       ],
       "file": "parts/v24_01208.brep",
-      "native_sha256": "6996b2d4537b63a50bcee47ad20318355cdae805fd43c2ed9a8076e16a1917fa",
+      "native_sha256": "e360b21a7950286813cb8358838d97957280a061731132ef8e1b674327e9fa1d",
       "source_native_sha256": "b7556144030b2950c64f811c2e6c3cf0652d623c0eae23c8d44c37a8ede7d06d"
     },
     {
@@ -58701,14 +58701,14 @@
       "group": "V24_Enclosure",
       "bounds_mm": [
         [
-          -309.49999237060604,
+          -309.4999923706053,
           -309.499916076658,
-          16.000001148193505
+          16.000003152407
         ],
         [
-          309.5000076293872,
-          309.5000839233434,
-          20.00000144041913
+          309.500007629387,
+          309.5000839233424,
+          19.99999900002346
         ]
       ],
       "solid_count": 1,
@@ -58726,7 +58726,7 @@
       "motion": "fixed",
       "motion_axes": [],
       "appearance_role": null,
-      "method": "native_panel_sections_interfaces_preserved",
+      "method": "native_outer_sections_preserve_profiles_and_planar_mate",
       "source": {
         "repository": "VoronDesign/Voron-2",
         "commit": "a192410e27ea345644ae5c4b29b4c9c40cbe1a73",
@@ -58746,7 +58746,7 @@
         "Deck Panel:1"
       ],
       "file": "parts/v24_01227.brep",
-      "native_sha256": "b6c17a3f027abffa2fc3c8278d0c7341e8a931a9fb01a8d9804ed60af9695fbb",
+      "native_sha256": "8046d7c166fd3d746506c4d7947c83fd94483fa7ceb7b729126398994d53a6d5",
       "source_native_sha256": "935ef327f837f929a8b7f9d1821449c87fba88e1896dfea8759bc83bade20d38"
     },
     {
