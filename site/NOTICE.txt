@@ -294,3 +294,11 @@ KevinAkaSam: GPL-3.0. Original editable source is available at the pinned upstre
 Belted Z: single motor, V-wheels, left Bowden extruder, F623 idlers and relocated PSU.
 KlackEnder: attached probe, moving gantry dock, fixed retainer; no automatic docking, calibration or firmware homing.
 Printed mating seats are adapted for this viewer CAD. Manufacturing tolerances, printed strength, belt tension and physical installation are not certified. Source switch terminal/magnet electrical contact is retained. The native Creality model omits the Bowden tube.
+
+A4T standalone printed LED housing reference
+
+Printed LED carrier, opaque filter and translucent diffuser: DW-Tas / Armchair Heavy Industries, CC-BY-NC-SA-4.0.
+Source: https://github.com/Armchair-Heavy-Industries/A4T/tree/e1fc27113bb3061458f528db837d517c35e0b88a
+The original 61-part Rapido HF / Sherpa assembly retains its source shapes and materials. Per-component upstream versions, credits and licenses are listed in a4t-printed-housing-v1/parts.json; those source components retain their respective licenses.
+The original cowling export omits six built-in print supports. No supports were removed from the three added printed housing parts.
+LED boards and wiring are not modelled. Existing source CAD contacts remain; no machine-installation, full-travel or physical-fit certification is asserted.

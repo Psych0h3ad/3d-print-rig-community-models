@@ -606,6 +606,16 @@
       "path": "custom-voron-v3/SOURCES.json",
       "bytes": 7736,
       "sha256": "9a11ad4ccb2a88ca280ed948593d81f85144a363ea1eed5d2b3b6234755ddd43"
+    },
+    "a4t-printed-housing-v1/model.glb.gz": {
+      "path": "a4t-printed-housing-v1/model.glb.gz",
+      "bytes": 4189790,
+      "sha256": "f3c673cd10ea78ab9f408d61d7686de845075e6d10988f5fdd4f5c4443c3af77"
+    },
+    "a4t-printed-housing-v1/parts.json": {
+      "path": "a4t-printed-housing-v1/parts.json",
+      "bytes": 23587,
+      "sha256": "078580267da4f95453690309e00b03c69e1503dd2beab68527178d77440facd2"
     }
   }
 }
